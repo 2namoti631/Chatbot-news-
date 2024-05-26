@@ -1,0 +1,124 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Xin chào",
+                "Chào bạn",
+                "Hello"
+            ],
+            "responses": [
+                "Xin chào, cảm ơn bạn đã hỏi",
+                "Rất vui được gặp lại bạn",
+                "Xin chào, tôi có thể giúp gì cho bạn?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Tạm biệt",
+                "Hẹn gặp lại sau",
+                "Goodbye",
+                "Chào bạn, hẹn gặp lại sau",
+                "Hẹn gặp lại lần sau"
+            ],
+            "responses": [
+                "Hẹn gặp lại bạn!",
+                "Chúc bạn một ngày tốt lành",
+                "Tạm biệt! Hẹn gặp lại sớm."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Cảm ơn",
+                "Xin cảm ơn",
+                "Rất hữu ích",
+                "Tuyệt vời, cảm ơn",
+                "Cảm ơn vì đã giúp đỡ"
+            ],
+            "responses": [
+                "Rất vui được giúp đỡ!",
+                "Bất cứ lúc nào!",
+                "Vui lòng!"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "noanswer",
+            "patterns": [],
+            "responses": [
+                "Xin lỗi, tôi không thể hiểu bạn",
+                "Vui lòng cung cấp thêm thông tin",
+                "Tôi không chắc mình đã hiểu"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "phân tích_ngữ_nghĩa",
+            "patterns": [
+                "NLP là gì?",
+                "NLP được sử dụng để làm gì?"
+            ],
+            "responses": [
+                "NLP là viết tắt của Natural Language Processing, là một lĩnh vực trong trí tuệ nhân tạo liên quan đến việc làm cho máy tính hiểu, đánh giá và tạo ra ngôn ngữ tự nhiên.",
+                "NLP được sử dụng để xử lý và hiểu ngôn ngữ tự nhiên bằng cách sử dụng máy tính."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ứng_dụng_NLP",
+            "patterns": [
+                "NLP được sử dụng trong lĩnh vực nào?",
+                "Các ứng dụng phổ biến của NLP là gì?"
+            ],
+            "responses": [
+                "NLP được sử dụng rộng rãi trong các lĩnh vực như xử lý ngôn ngữ tự nhiên, tìm kiếm thông tin, dịch thuật tự động, gợi ý và phân loại văn bản.",
+                "Các ứng dụng phổ biến của NLP bao gồm chatbot, phân tích cảm xúc, dịch máy và tóm tắt văn bản."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "công_cụ_NLP",
+            "patterns": [
+                "Công cụ và thư viện NLP nào phổ biến nhất?",
+                "Thư viện nào được sử dụng nhiều nhất cho NLP?"
+            ],
+            "responses": [
+                "Các công cụ và thư viện NLP phổ biến nhất bao gồm NLTK (Natural Language Toolkit), SpaCy, TensorFlow và PyTorch.",
+                "NLTK (Natural Language Toolkit) và SpaCy là hai thư viện NLP phổ biến và được sử dụng nhiều trong cộng đồng NLP."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "phân_loại_văn_bản",
+            "patterns": [
+                "Làm cách nào để phân loại văn bản sử dụng NLP?",
+                "Các kỹ thuật phân loại văn bản thường được sử dụng trong NLP là gì?"
+            ],
+            "responses": [
+                "Trong NLP, phân loại văn bản thường sử dụng các kỹ thuật như Naive Bayes, SVM (Support Vector Machines) và Deep Learning.",
+                "Để phân loại văn bản, các phương pháp như Bag of Words (BoW), TF-IDF và Word Embeddings thường được sử dụng."
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}        

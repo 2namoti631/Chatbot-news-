@@ -1,0 +1,328 @@
+{
+    "intents": [
+        {
+            "tag": "Tiến sĩ người Việt đưa công nghệ điều trị ung thư máu về nước",
+            "patterns": [
+                "Sau gần 20 năm nghiên cứu, tiếp xúc với các tiến bộ trong ngành khoa học y ở Đức, TS Lê Đức Dũng đã tìm cách chuyển giao các công nghệ điều trị bệnh ung thư máu về Việt Nam."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Tiến sĩ người Việt đưa công nghệ điều trị ung thư máu về nước. Đọc thêm tại: https://vnexpress.net/tien-si-nguoi-viet-dua-cong-nghe-dieu-tri-ung-thu-mau-ve-nuoc-4750094.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Hai nguyên nhân gây lũ cát đỏ ở Bình Thuận",
+            "patterns": [
+                "Lượng mưa lớn trong thời gian ngắn cùng với hạ tầng đô thị cản trở mạch nước ngầm là hai nguyên nhân chính xảy ra lũ cát đỏ ở Bình Thuận, theo chuyên gia."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Hai nguyên nhân gây lũ cát đỏ ở Bình Thuận. Đọc thêm tại: https://vnexpress.net/hai-nguyen-nhan-gay-lu-cat-do-o-binh-thuan-4749109.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Quầng mặt trời xuất hiện ở nhiều tỉnh thành",
+            "patterns": [
+                "Hiện tượng quầng mặt trời xuất hiện ở nhiều nơi như Hải Phòng, Quảng Ninh, Bình Thuận... trưa 21/5."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Quầng mặt trời xuất hiện ở nhiều tỉnh thành. Đọc thêm tại: https://vnexpress.net/quang-mat-troi-xuat-hien-o-nhieu-tinh-thanh-4748752.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Thuốc phóng xạ của Việt Nam được điều chế thế nào?",
+            "patterns": [
+                "Vật liệu không có phóng xạ được đưa đến Lò phản ứng hạt nhân Đà Lạt chiếu xạ, sau đó sẽ tách chiết để lấy hạt nhân phóng xạ cần cho chẩn đoán và điều trị ung thư."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Thuốc phóng xạ của Việt Nam được điều chế thế nào?. Đọc thêm tại: https://vnexpress.net/thuoc-phong-xa-cua-viet-nam-duoc-dieu-che-the-nao-4744922.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Phát hiện loài Quắm đen và cò thìa mặt đen tại miền Trung",
+            "patterns": [
+                "Lần đầu tiên các nhà nghiên cứu phát hiện loài chim Quắm đen (Plegadis falcinellus) và Cò thìa mặt đen (Platalea minor), đều thuộc danh lục đỏ tại vùng đầm phá ven biển miền Trung, Việt Nam."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Phát hiện loài Quắm đen và cò thìa mặt đen tại miền Trung. Đọc thêm tại: https://vnexpress.net/phat-hien-loai-quam-den-va-co-thia-mat-den-tai-mien-trung-4748163.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "'Ô cửa thần kỳ' cho trẻ mầm non vùng cao",
+            "patterns": [
+                "Các thầy cô trường mầm non Hoa Sen (TP Tuyên Quang) sáng tạo 'ô cửa thần kỳ' giúp trẻ hứng thú làm toán, nghe cô giáo kể chuyện, giành giải khuyến khích cuộc thi Sáng kiến Khoa học 2024."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 'Ô cửa thần kỳ' cho trẻ mầm non vùng cao. Đọc thêm tại: https://vnexpress.net/o-cua-than-ky-cho-tre-mam-non-vung-cao-4747231.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Bê tông làm từ phế thải tro bay và thủy tinh có thể truyền ánh sáng",
+            "patterns": [
+                "Nhóm nhà khoa học tận dụng phế thải tro bay, xỉ đáy lò của nhà máy điện đốt rác kết hợp thủy tinh tạo ra bê tông có thể truyền ánh sáng, giành giải ba Sáng kiến Khoa học 2024."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Bê tông làm từ phế thải tro bay và thủy tinh có thể truyền ánh sáng. Đọc thêm tại: https://vnexpress.net/be-tong-lam-tu-phe-thai-tro-bay-va-thuy-tinh-co-the-truyen-anh-sang-4745801.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Nhà khoa học Việt biến bùn thải giấy thành vật liệu có ích",
+            "patterns": [
+                "Nghiên cứu của PGS.TS Nguyễn Đình Quân tận dụng bùn thải nhà máy giấy để sản xuất cellulose vi khuẩn trộn vào vật liệu giúp cho giấy chất lượng cao hơn so với thông thường."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Nhà khoa học Việt biến bùn thải giấy thành vật liệu có ích. Đọc thêm tại: https://vnexpress.net/nha-khoa-hoc-viet-bien-bun-thai-giay-thanh-vat-lieu-co-ich-4745636.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Chip dùng cho cảm biến thắng giải thiết kế vi mạch TP HCM",
+            "patterns": [
+                "Chip tăng khả năng thu nhận tín hiệu từ cảm biến, ứng dụng lĩnh vực IoT do sinh viên thực hiện thắng giải thiết kế vi mạch TP HCM với phần thưởng 30 triệu đồng."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Chip dùng cho cảm biến thắng giải thiết kế vi mạch TP HCM. Đọc thêm tại: https://vnexpress.net/chip-dung-cho-cam-bien-thang-giai-thiet-ke-vi-mach-tp-hcm-4747706.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "'Nhà khoa học trẻ khởi nghiệp khó khăn nhưng không cô đơn'",
+            "patterns": [
+                "Vẫn còn nhiều khó khăn để thương mại hóa sản phẩm nghiên cứu song PGS. TS Mai Anh Tuấn cho rằng các chính sách đang ngày càng tốt lên để các ý tưởng sáng tạo có thể đóng góp cho cộng đồng, phát triển kinh tế."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 'Nhà khoa học trẻ khởi nghiệp khó khăn nhưng không cô đơn'. Đọc thêm tại: https://vnexpress.net/nha-khoa-hoc-tre-khoi-nghiep-kho-khan-nhung-khong-co-don-4746980.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Kỹ sư 8x làm bếp nước ấm cho vùng cao giành giải Sáng kiến",
+            "patterns": [
+                "Quảng NamGiải pháp tận dụng từ nguồn nhiệt dư thừa của bếp củi tạo nước nóng giúp người dân miền núi dùng thay bình nóng lạnh được trao hạng mục 'Sáng kiến' của Cuộc thi Sáng kiến Khoa học 2024"
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Kỹ sư 8x làm bếp nước ấm cho vùng cao giành giải Sáng kiến. Đọc thêm tại: https://vnexpress.net/ky-su-8x-lam-bep-nuoc-am-cho-vung-cao-gianh-giai-sang-kien-4746021.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "'Sáng chế giải bài toán của cuộc sống dễ thương mại hóa'",
+            "patterns": [
+                "Hà NộiTheo các nhà khoa học, từ kết quả nghiên cứu thành sản phẩm không khó, nhưng để thương mại hóa ra sáng chế đó phải bắt nguồn và giải được bài toán cuộc sống đang vướng mắc."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 'Sáng chế giải bài toán của cuộc sống dễ thương mại hóa'. Đọc thêm tại: https://vnexpress.net/sang-che-giai-bai-toan-cua-cuoc-song-de-thuong-mai-hoa-4746666-tong-thuat.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Giao thông thông minh cần kỹ sư giỏi thực hành",
+            "patterns": [
+                "Các chuyên gia cho rằng phát triển công nghệ ứng dụng giao thông thông minh cần những kỹ sư nhiều thời gian thực hành tại các doanh nghiệp để nâng cao kỹ năng."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Giao thông thông minh cần kỹ sư giỏi thực hành. Đọc thêm tại: https://vnexpress.net/giao-thong-thong-minh-can-ky-su-gioi-thuc-hanh-4746501.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Thủ tướng tham quan triển lãm thành tựu khoa học công nghệ Việt Nam",
+            "patterns": [
+                "Thủ tướng Phạm Minh Chính cùng các thành viên Chính phủ thăm quan, trải nghiệm các ứng dụng khoa học công nghệ đã được áp dụng trong nhiều lĩnh vực."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Thủ tướng tham quan triển lãm thành tựu khoa học công nghệ Việt Nam. Đọc thêm tại: https://vnexpress.net/thu-tuong-tham-quan-trien-lam-thanh-tuu-khoa-hoc-cong-nghe-viet-nam-4746295.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Thủ tướng: 'Khoa học công nghệ là con đường ngắn nhất đạt các mục tiêu'",
+            "patterns": [
+                "Hà NộiPhát biểu chúc mừng các nhà khoa học, Thủ tướng Phạm Minh Chính ghi nhận những đóng góp của ngành, khẳng định 'khoa học công nghệ và đổi mới sáng tạo là con đường ngắn nhất để đạt được các mục tiêu'."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Thủ tướng: 'Khoa học công nghệ là con đường ngắn nhất đạt các mục tiêu'. Đọc thêm tại: https://vnexpress.net/thu-tuong-khoa-hoc-cong-nghe-la-con-duong-ngan-nhat-dat-cac-muc-tieu-4746105-tong-thuat.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Giáo sư Việt săn tìm 'hạt ma quái'",
+            "patterns": [
+                "GS.TS Phùng Văn Đồng cùng cộng sự phát hiện ra mô hình có thể dự đoán khối lượng neutrino và sự tồn tại phổ biến của vật chất tối nhằm khai phá những bí ẩn vũ trụ."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Giáo sư Việt săn tìm 'hạt ma quái'. Đọc thêm tại: https://vnexpress.net/giao-su-viet-san-tim-hat-ma-quai-4743640.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "'Giải Tạ Quang Bửu là động lực để nhà khoa học nâng chất lượng công bố'",
+            "patterns": [
+                "GS.TS Nguyễn Ngọc Minh nhìn nhận việc được trao giải thưởng là động lực để các nhà khoa học nghĩ đến việc cải thiện công bố, góp phần tăng chất lượng nghiên cứu khoa học."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 'Giải Tạ Quang Bửu là động lực để nhà khoa học nâng chất lượng công bố'. Đọc thêm tại: https://vnexpress.net/giai-ta-quang-buu-la-dong-luc-de-nha-khoa-hoc-nang-chat-luong-cong-bo-4741114.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "'Giải Tạ Quang Bửu 2024 nhận được nhiều hồ sơ đề cử chất lượng cao'",
+            "patterns": [
+                "Theo Hội đồng xét tặng giải Tạ Quang Bửu, năm nay số lượng hồ sơ nhiều, là tín hiệu đáng mừng do những công trình chất lượng công bố quốc tế cao."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 'Giải Tạ Quang Bửu 2024 nhận được nhiều hồ sơ đề cử chất lượng cao'. Đọc thêm tại: https://vnexpress.net/giai-ta-quang-buu-2024-nhan-duoc-nhieu-ho-so-de-cu-chat-luong-cao-4744264.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Tác giả có tên trong bài báo công bố quốc tế được duyệt thế nào?",
+            "patterns": [
+                "Trong quy trình bình duyệt của một tạp chí uy tín ít nhất sẽ có một lần thông báo bằng email nhằm xác nhận thông tin các thành viên, do đó việc đưa tên một người vào danh sách nghiên cứu phải có lý do."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Tác giả có tên trong bài báo công bố quốc tế được duyệt thế nào?. Đọc thêm tại: https://vnexpress.net/tac-gia-co-ten-trong-bai-bao-cong-bo-quoc-te-duoc-duyet-the-nao-4744791.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Lịch sử ra đời Ngày Khoa học công nghệ Việt Nam",
+            "patterns": [
+                "Ngày 18/5/1963, Chủ tịch Hồ Chí Minh đã gặp mặt giới trí thức, đến năm 2013 Việt Nam đã chọn ngày này để kỷ niệm, tôn vinh những người làm khoa học."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Lịch sử ra đời Ngày Khoa học công nghệ Việt Nam. Đọc thêm tại: https://vnexpress.net/lich-su-ra-doi-ngay-khoa-hoc-cong-nghe-viet-nam-4745142.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "'Cần mở rộng lĩnh vực tại hai trung tâm nghiên cứu Toán và Vật lý'",
+            "patterns": [
+                "Trung tâm Vật lý Quốc tế (ICP) và Trung tâm Quốc tế Đào tạo - Nghiên cứu Toán học (ICRTM) ngoài chương trình nghiên cứu cơ bản cần mở rộng lĩnh vực phù hợp, trong đó có phục vụ phát triển bền vững."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 'Cần mở rộng lĩnh vực tại hai trung tâm nghiên cứu Toán và Vật lý'. Đọc thêm tại: https://vnexpress.net/can-mo-rong-linh-vuc-tai-hai-trung-tam-nghien-cuu-toan-va-vat-ly-4744606.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "'Bài báo quốc tế có tên tác giả Việt bị gỡ liên quan đến bản quyền'",
+            "patterns": [
+                "Đại học Kinh tế TP HCM (UEH) cho biết việc GS.TS Võ Xuân Vinh liên quan đến bài báo khoa học trên Tạp chí thuộc Nhà xuất bản Springer bị gỡ bỏ do liên quan đến quyền tác giả."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 'Bài báo quốc tế có tên tác giả Việt bị gỡ liên quan đến bản quyền'. Đọc thêm tại: https://vnexpress.net/bai-bao-quoc-te-co-ten-tac-gia-viet-bi-go-lien-quan-den-ban-quyen-4744616.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Tạp chí quốc tế gỡ bài báo khoa học có tên tác giả người Việt",
+            "patterns": [
+                "Nhà xuất bản Springer gỡ bài báo khoa học đã xuất bản của nhóm tác giả Trung Quốc, Việt Nam, Ghana và Eswatini, được xuất bản ngày 13/4/2021."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Tạp chí quốc tế gỡ bài báo khoa học có tên tác giả người Việt. Đọc thêm tại: https://vnexpress.net/tap-chi-quoc-te-go-bai-bao-khoa-hoc-co-ten-tac-gia-nguoi-viet-4744128.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Hải Phòng nhìn vào điểm yếu để duy trì vị trí top đầu chỉ số PII",
+            "patterns": [
+                "Hải PhòngĐứng ở vị trí thứ 3 bảng xếp hạng Chỉ số đổi mới sáng tạo cấp địa phương (PII 2023), lãnh đạo TP Hải Phòng xác định còn yếu về sản phẩm tri thức, sáng tạo - công nghệ và ít bằng sáng chế."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Hải Phòng nhìn vào điểm yếu để duy trì vị trí top đầu chỉ số PII. Đọc thêm tại: https://vnexpress.net/hai-phong-nhin-vao-diem-yeu-de-duy-tri-vi-tri-top-dau-chi-so-pii-4744161.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Gia Lai muốn ứng dụng khoa học phục hồi rừng khộp",
+            "patterns": [
+                "Gia LaiTỉnh Gia Lai đề xuất Bộ Khoa học và Công nghệ hỗ trợ các nhiệm vụ, đề tài nhằm nghiên cứu cơ sở khoa học phục hồi và quản lý bền vững hệ sinh thái rừng khộp."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Gia Lai muốn ứng dụng khoa học phục hồi rừng khộp. Đọc thêm tại: https://vnexpress.net/gia-lai-muon-ung-dung-khoa-hoc-phuc-hoi-rung-khop-4743867.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Nâng cao chất lượng thanh tra khoa học công nghệ",
+            "patterns": [
+                "Quản lý nhà nước về khoa học công nghệ có phạm vi rộng, chuyên ngành phức tạp, lãnh đạo Bộ Khoa học và Công nghệ yêu cầu cán bộ thanh tra cần có kiến thức chuyên sâu."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Nâng cao chất lượng thanh tra khoa học công nghệ. Đọc thêm tại: https://vnexpress.net/nang-cao-chat-luong-thanh-tra-khoa-hoc-cong-nghe-4743915.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Thừa Thiên Huế đặt mục tiêu vào top 10 địa phương đổi mới sáng tạo",
+            "patterns": [
+                "Thừa Thiên Huế lên kế hoạch cải thiện Chỉ số đổi mới sáng tạo địa phương (PII) bằng nhiều giải pháp, trong đó có đầu tư vào khoa học, công nghệ, hỗ trợ các ý tưởng đổi mới, sáng tạo, sáng chế, đẩy mạnh thương mại hóa kết quả nghiên cứu."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Thừa Thiên Huế đặt mục tiêu vào top 10 địa phương đổi mới sáng tạo. Đọc thêm tại: https://vnexpress.net/thua-thien-hue-dat-muc-tieu-vao-top-10-dia-phuong-doi-moi-sang-tao-4743480.html"
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}
