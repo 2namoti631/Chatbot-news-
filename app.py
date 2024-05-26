@@ -10,14 +10,14 @@ import random
 from flask import Flask, render_template, request
 
 # Load mô hình và dữ liệu
-model = load_model('model.h5')
-with open('data.json', encoding='utf-8') as file:
+model = load_model('Chatbot-news-/model.h5')
+with open('Chatbot-news-\data.json', encoding='utf-8') as file:
     intents = json.load(file)
-words = pickle.load(open('texts.pkl', 'rb'))
-classes = pickle.load(open('labels.pkl', 'rb'))
+words = pickle.load(open('Chatbot-news-\ texts.pkl', 'rb'))
+classes = pickle.load(open('Chatbot-news-\labels.pkl', 'rb'))
 
 # Load dữ liệu tin tức
-with open('news_data.json', encoding='utf-8') as file:
+with open('Chatbot-news-/news_data.json', encoding='utf-8') as file:
     news_data = json.load(file)
 
 def clean_up_sentence(sentence):
