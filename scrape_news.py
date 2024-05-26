@@ -36,7 +36,7 @@ def prepare_intents(news_data):
 news_data = get_news()
 news_intents = prepare_intents(news_data)
 
-with open('Chatbot-news-\ news_data.json', 'w', encoding='utf-8') as file:
+with open('news_data.json', 'w', encoding='utf-8') as file:
     json.dump(news_intents, file, ensure_ascii=False, indent=4)
 
 print("Đã thu thập và xử lý dữ liệu tin tức")

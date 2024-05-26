@@ -10,17 +10,17 @@ from keras.optimizers import SGD
 import random
 
 # Load dữ liệu cũ
-with open('Chatbot-news-\data.json', encoding='utf-8') as old_file:
+with open('data.json', encoding='utf-8') as old_file:
     old_data = json.load(old_file)
 
 # Load dữ liệu mới
-with open('Chatbot-news-/news_data.json', encoding='utf-8') as news_file:
+with open('news_data.json', encoding='utf-8') as news_file:
     news_data = json.load(news_file)
 
 # Kết hợp dữ liệu cũ và mới
 combined_intents = old_data['intents'] + news_data['intents']
 
-with open('Chatbot-news-\data.json', 'w', encoding='utf-8') as combined_file:
+with open('data.json', 'w', encoding='utf-8') as combined_file:
     json.dump({"intents": combined_intents}, combined_file, ensure_ascii=False, indent=4)
 
 # Huấn luyện lại mô hình
@@ -28,7 +28,7 @@ words = []
 classes = []
 documents = []
 ignore_words = ['?', '!', '.', ',']
-data_file = open('Chatbot-news-\data.json', encoding='utf-8').read()
+data_file = open('data.json', encoding='utf-8').read()
 intents = json.loads(data_file)
 
 for intent in intents['intents']:
@@ -43,8 +43,8 @@ words = [lemmatizer.lemmatize(w.lower()) for w in words if w not in ignore_words
 words = sorted(list(set(words)))
 classes = sorted(list(set(classes)))
 
-pickle.dump(words, open('Chatbot-news-\ texts.pkl', 'wb'))
-pickle.dump(classes, open('Chatbot-news-\labels.pkl', 'wb'))
+pickle.dump(words, open('texts.pkl', 'wb'))
+pickle.dump(classes, open('labels.pkl', 'wb'))
 
 training = []
 output_empty = [0] * len(classes)
@@ -74,6 +74,6 @@ sgd = SGD(learning_rate=0.01, decay=1e-6, momentum=0.9, nesterov=True)
 model.compile(loss='categorical_crossentropy', optimizer=sgd, metrics=['accuracy'])
 
 hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)
-model.save('Chatbot-news-\model.h5', hist)
+model.save('model.h5', hist)
 
 print("Training thành công")
