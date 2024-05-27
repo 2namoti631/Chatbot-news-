@@ -58,12 +58,14 @@ def getResponse(ints, intents_json):
 
 def chatbot_response(msg):
     if 'tin tức hôm nay' in msg.lower():
+        random.shuffle(news_data['intents'])  # Xáo trộn danh sách tin tức
         news_responses = []
         for news in news_data['intents']:
             title = news['tag']
             summary = news['patterns'][0]
             link = news['responses'][0].split()[-1]
             news_responses.append(f"<strong>Tiêu đề:</strong> {title}<br><strong>Nội dung:</strong> {summary}<br><a href='{link}' target='_blank'>Xem thêm</a><br><br>")
+            break 
         return "".join(news_responses)
 
     ints = predict_class(msg, model)
