@@ -36,13 +36,25 @@ def bow(sentence, words, show_details=True):
                     print("found in bag: %s" % w)
     return np.array(bag)
 
+def is_meaningless(words):
+    # Điều kiện xác định câu input không có nghĩa
+    if len(words) <2 :
+        return True
+    return False
+
 def predict_class(sentence, model):
+    sentence_words = clean_up_sentence(sentence)
     p = bow(sentence, words, show_details=False)
     res = model.predict(np.array([p]))[0]
     ERROR_THRESHOLD = 0.25
     results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
     results.sort(key=lambda x: x[1], reverse=True)
     return_list = []
+
+    # Kiểm tra nếu câu input không có nghĩa
+    if is_meaningless(sentence_words):
+        return [{"intent": "noanswer", "probability": "1.0"}]
+
     for r in results:
         return_list.append({"intent": classes[r[0]], "probability": str(r[1])})
     return return_list
@@ -58,7 +70,7 @@ def getResponse(ints, intents_json):
 
 
 def chatbot_response(msg):
-    if 'tin tức hôm nay' in msg.lower():
+    if 'tin tức' in msg.lower():
         random.shuffle(news_data['intents'])  # Xáo trộn danh sách tin tức
         news_responses = []
         for news in news_data['intents']:
