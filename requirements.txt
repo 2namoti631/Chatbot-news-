@@ -4,3 +4,4 @@ pickle
 nltk
 flask
 requests
+bs4
