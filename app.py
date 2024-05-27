@@ -55,7 +55,7 @@ def getResponse(ints, intents_json):
             result = random.choice(i['responses'])
             break
     return result
-
+    
 def chatbot_response(msg):
     if 'tin tức hôm nay' in msg.lower():
         random.shuffle(news_data['intents'])  # Xáo trộn danh sách tin tức
