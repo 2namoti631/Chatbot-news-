@@ -119,6 +119,20 @@
             "context": [
                 ""
             ]
-        }
+        },
+        {
+            "tag": "học_sâu_trong_NLP",
+            "patterns": [
+                "Học sâu trong NLP là gì?",
+                "Các ứng dụng của học sâu trong NLP là gì?"
+            ],
+            "responses": [
+                "Học sâu trong NLP là việc áp dụng các mạng neural sâu để xử lý và phân tích ngôn ngữ tự nhiên.",
+                "Các ứng dụng của học sâu trong NLP bao gồm nhận diện thực thể có tên, phân loại văn bản, và dịch máy."
+            ],
+            "context": [
+                ""
+            ]
+        },
     ]
 }        
