@@ -37,6 +37,10 @@ def bow(sentence, words, show_details=True):
     return np.array(bag)
 
 def predict_class(sentence, model):
+    sentence_words = clean_up_sentence(sentence)
+    # Kiểm tra nếu câu hỏi có ít nhất hai từ
+    if len(sentence_words) < 2:
+        return [{"intent": "missing_question", "probability": "1.0"}]
     p = bow(sentence, words, show_details=False)
     res = model.predict(np.array([p]))[0]
     ERROR_THRESHOLD = 0.25
@@ -49,13 +53,17 @@ def predict_class(sentence, model):
 
 def getResponse(ints, intents_json):
     tag = ints[0]['intent']
+    # Nếu câu hỏi bị thiếu từ, trả về câu trả lời tương ứng
+    if tag == 'missing_question':
+        return "Tôi chưa hiểu câu hỏi của bạn.Bạn có thể hỏi chi tiết hơn không?."
     list_of_intents = intents_json['intents']
     for i in list_of_intents:
         if i['tag'] == tag:
             result = random.choice(i['responses'])
             break
     return result
-    
+
+
 def chatbot_response(msg):
     if 'tin tức hôm nay' in msg.lower():
         random.shuffle(news_data['intents'])  # Xáo trộn danh sách tin tức
