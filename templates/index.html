@@ -4,15 +4,14 @@
 <head>
   <meta charset="UTF-8">
   <title>Chatbot</title>
-  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
 </head>
 
 <body>
-  <!-- partial:index.partial.html -->
   <section class="msger">
     <header class="msger-header">
       <div class="msger-header-title">
@@ -20,42 +19,30 @@
       </div>
     </header>
 
-    <main class="msger-chat">
-      <div class="msg left-msg">
-        <div class="msg-img" style="background-image: url(https://i.pinimg.com/originals/9a/11/33/9a1133d4af3b637e1c6c8ff251785f27.jpg)"></div>
-
-        <div class="msg-bubble">
-          <div class="msg-info">
-            <div class="msg-info-name">Chatbot</div>
-            <div class="msg-info-time"></div>
-          </div>
-
-          <div class="msg-text">
-            Chào mừng đến với Chatbot! Tôi có thể giúp gì cho bạn. 😄
-          </div>
-        </div>
-      </div>
-
+    <main class="msger-chat" id="chat-box">
+      <!-- Tin nhắn chào mừng với thời gian thực -->
     </main>
 
-    <form class="msger-inputarea">
-      <input type="text" class="msger-input" id="textInput" placeholder="Enter your message...">
+    <form class="msger-inputarea" id="msger-form">
+      <input type="text" class="msger-input" id="user-input" placeholder="Enter your message...">
       <button type="submit" class="msger-send-btn">Send</button>
     </form>
   </section>
-  <!-- partial -->
-  <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
+
   <script>
-
-    const msgerForm = get(".msger-inputarea");
-    const msgerInput = get(".msger-input");
-    const msgerChat = get(".msger-chat");
-
+    const msgerForm = document.getElementById("msger-form");
+    const msgerInput = document.getElementById("user-input");
+    const msgerChat = document.getElementById("chat-box");
 
     const BOT_IMG = "https://i.pinimg.com/originals/9a/11/33/9a1133d4af3b637e1c6c8ff251785f27.jpg";
     const PERSON_IMG = "https://t4.ftcdn.net/jpg/02/59/95/03/240_F_259950302_Cqoy2LJ09HsMzc9KC61H5oR1hvczrAct.jpg";
-    const BOT_NAME = "    ChatBot";
+    const BOT_NAME = "Chatbot";
     const PERSON_NAME = "Bạn";
+
+    // Hiển thị tin nhắn chào mừng khi trang được tải
+    window.onload = function() {
+      appendMessage(BOT_NAME, BOT_IMG, "left", "Chào mừng đến với Chatbot! Tôi có thể giúp gì cho bạn. 😄");
+    };
 
     msgerForm.addEventListener("submit", event => {
       event.preventDefault();
