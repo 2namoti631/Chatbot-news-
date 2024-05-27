@@ -3,3 +3,4 @@ keras
 pickle
 nltk
 flask
+requests
