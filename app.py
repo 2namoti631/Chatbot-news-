@@ -35,17 +35,6 @@ def bow(sentence, words, show_details=True):
                 if show_details:
                     print("found in bag: %s" % w)
     return np.array(bag)
-    
-def is_question(sentence):
-    question_words = {"Cái gì", "Như nào", "Tại sao", "Khi nào", "Ở đâu", "Ai", "Cái nào", "là",  "làm", "đã làm", "có thể", "sẽ", "nên"}
-    sentence_words = clean_up_sentence(sentence)
-    # Kiểm tra nếu từ đầu tiên là từ nghi vấn
-    if sentence_words[0] in question_words:
-        return True
-    # Kiểm tra nếu câu kết thúc bằng dấu hỏi
-    if sentence.strip().endswith('?'):
-        return True
-    return False
 
 def is_meaningless(words):
     # Điều kiện xác định câu input không có nghĩa
