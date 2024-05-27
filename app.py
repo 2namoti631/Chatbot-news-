@@ -10,7 +10,7 @@ import random
 from flask import Flask, render_template, request
 
 # Load mô hình và dữ liệu
-model = load_model('Chatbot-news-/model.h5')
+model = load_model('model.h5')
 with open('data.json', encoding='utf-8') as file:
     intents = json.load(file)
 words = pickle.load(open('texts.pkl', 'rb'))
