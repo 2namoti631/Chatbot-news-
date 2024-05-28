@@ -1,324 +1,528 @@
 {
     "intents": [
         {
-            "tag": "Tiến sĩ người Việt đưa công nghệ điều trị ung thư máu về nước",
+            "tag": "Hà Nội muốn có gần 100 km đường sắt đô thị đến năm 2030",
             "patterns": [
-                "Sau gần 20 năm nghiên cứu, tiếp xúc với các tiến bộ trong ngành khoa học y ở Đức, TS Lê Đức Dũng đã tìm cách chuyển giao các công nghệ điều trị bệnh ung thư máu về Việt Nam."
+                "UBND TP Hà Nội đặt mục tiêu đến năm 2030 xây dựng xong 96,8 km đường sắt đô thị và hoàn thành mạng lưới 550 km đến năm 2045."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Tiến sĩ người Việt đưa công nghệ điều trị ung thư máu về nước. Đọc thêm tại: https://vnexpress.net/tien-si-nguoi-viet-dua-cong-nghe-dieu-tri-ung-thu-mau-ve-nuoc-4750094.html"
+                "Đây là tin tức mới nhất về: Hà Nội muốn có gần 100 km đường sắt đô thị đến năm 2030. Đọc thêm tại: https://vnexpress.net/ha-noi-muon-co-gan-100-km-duong-sat-do-thi-den-nam-2030-4751408.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Hai nguyên nhân gây lũ cát đỏ ở Bình Thuận",
+            "tag": "Dừng xây dựng trường học, cầu treo vì địa giới chồng lấn",
             "patterns": [
-                "Lượng mưa lớn trong thời gian ngắn cùng với hạ tầng đô thị cản trở mạch nước ngầm là hai nguyên nhân chính xảy ra lũ cát đỏ ở Bình Thuận, theo chuyên gia."
+                "Quảng NamMạnh thường quân đầu tư 760 triệu đồng xây điểm trường và cầu treo ở xã Trà Vinh, đến khi công trình gần hoàn thành thì phải dừng do địa giới chồng lấn."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Hai nguyên nhân gây lũ cát đỏ ở Bình Thuận. Đọc thêm tại: https://vnexpress.net/hai-nguyen-nhan-gay-lu-cat-do-o-binh-thuan-4749109.html"
+                "Đây là tin tức mới nhất về: Dừng xây dựng trường học, cầu treo vì địa giới chồng lấn. Đọc thêm tại: https://vnexpress.net/dung-xay-dung-truong-hoc-cau-treo-vi-dia-gioi-chong-lan-4751321.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Quầng mặt trời xuất hiện ở nhiều tỉnh thành",
+            "tag": "Cháy lớn nhà máy sản xuất quạt ở Bình Dương",
             "patterns": [
-                "Hiện tượng quầng mặt trời xuất hiện ở nhiều nơi như Hải Phòng, Quảng Ninh, Bình Thuận... trưa 21/5."
+                "Hoả hoạn xảy ra từ nhà xưởng sản xuất quạt thông gió và công ty phân phối lốp ôtô gần đường ĐT 743, TP Dĩ An, sáng 28/5."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Quầng mặt trời xuất hiện ở nhiều tỉnh thành. Đọc thêm tại: https://vnexpress.net/quang-mat-troi-xuat-hien-o-nhieu-tinh-thanh-4748752.html"
+                "Đây là tin tức mới nhất về: Cháy lớn nhà máy sản xuất quạt ở Bình Dương. Đọc thêm tại: https://vnexpress.net/chay-lon-nha-may-san-xuat-quat-o-binh-duong-4751357.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Thuốc phóng xạ của Việt Nam được điều chế thế nào?",
+            "tag": "Đề xuất lao động đóng khoản bị nợ BHXH để hưởng chế độ",
             "patterns": [
-                "Vật liệu không có phóng xạ được đưa đến Lò phản ứng hạt nhân Đà Lạt chiếu xạ, sau đó sẽ tách chiết để lấy hạt nhân phóng xạ cần cho chẩn đoán và điều trị ung thư."
+                "Người lao động có thể nộp khoản bị doanh nghiệp chậm, trốn đóng bảo hiểm xã hội (BHXH) để đủ điều kiện xác nhận hưởng hưu trí, theo dự thảo Luật bảo hiểm xã hội."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Thuốc phóng xạ của Việt Nam được điều chế thế nào?. Đọc thêm tại: https://vnexpress.net/thuoc-phong-xa-cua-viet-nam-duoc-dieu-che-the-nao-4744922.html"
+                "Đây là tin tức mới nhất về: Đề xuất lao động đóng khoản bị nợ BHXH để hưởng chế độ. Đọc thêm tại: https://vnexpress.net/de-xuat-lao-dong-dong-khoan-bi-no-bhxh-de-huong-che-do-4751222.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Phát hiện loài Quắm đen và cò thìa mặt đen tại miền Trung",
+            "tag": "Luồn rừng sâu giải cứu hàng trăm động vật quý hiếm",
             "patterns": [
-                "Lần đầu tiên các nhà nghiên cứu phát hiện loài chim Quắm đen (Plegadis falcinellus) và Cò thìa mặt đen (Platalea minor), đều thuộc danh lục đỏ tại vùng đầm phá ven biển miền Trung, Việt Nam."
+                "Kon TumTrong quá trình tuần tra, lực lượng bảo vệ Vườn quốc gia Chư Mom Ray tìm, tháo gỡ hàng chục nghìn bẫy thú, giải cứu hàng trăm động vật hoang dã."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Phát hiện loài Quắm đen và cò thìa mặt đen tại miền Trung. Đọc thêm tại: https://vnexpress.net/phat-hien-loai-quam-den-va-co-thia-mat-den-tai-mien-trung-4748163.html"
+                "Đây là tin tức mới nhất về: Luồn rừng sâu giải cứu hàng trăm động vật quý hiếm. Đọc thêm tại: https://vnexpress.net/luon-rung-sau-giai-cuu-hang-tram-dong-vat-quy-hiem-4746195.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "'Ô cửa thần kỳ' cho trẻ mầm non vùng cao",
+            "tag": "Dự án thủy cung lấn biển Vũng Tàu xây lại sau 4 năm dừng",
             "patterns": [
-                "Các thầy cô trường mầm non Hoa Sen (TP Tuyên Quang) sáng tạo 'ô cửa thần kỳ' giúp trẻ hứng thú làm toán, nghe cô giáo kể chuyện, giành giải khuyến khích cuộc thi Sáng kiến Khoa học 2024."
+                "Chính quyền Bà Rịa - Vũng Tàu cho chủ đầu tư tiếp tục thi công đê chắn sóng và san lấp mặt bằng dự án xây dựng thủy cung ở gần biển Bãi Trước, sau hơn 4 năm dừng."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: 'Ô cửa thần kỳ' cho trẻ mầm non vùng cao. Đọc thêm tại: https://vnexpress.net/o-cua-than-ky-cho-tre-mam-non-vung-cao-4747231.html"
+                "Đây là tin tức mới nhất về: Dự án thủy cung lấn biển Vũng Tàu xây lại sau 4 năm dừng. Đọc thêm tại: https://vnexpress.net/du-an-thuy-cung-lan-bien-vung-tau-xay-lai-sau-4-nam-dung-4751216.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Bê tông làm từ phế thải tro bay và thủy tinh có thể truyền ánh sáng",
+            "tag": "Trung tá CSGT bị xe máy tông tử vong",
             "patterns": [
-                "Nhóm nhà khoa học tận dụng phế thải tro bay, xỉ đáy lò của nhà máy điện đốt rác kết hợp thủy tinh tạo ra bê tông có thể truyền ánh sáng, giành giải ba Sáng kiến Khoa học 2024."
+                "Khánh HòaTrung tá Phan Trần Anh Phương, 40 tuổi đang làm nhiệm vụ bị nam thanh niên lái xe máy tông tử vong, trưa 27/5."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Bê tông làm từ phế thải tro bay và thủy tinh có thể truyền ánh sáng. Đọc thêm tại: https://vnexpress.net/be-tong-lam-tu-phe-thai-tro-bay-va-thuy-tinh-co-the-truyen-anh-sang-4745801.html"
+                "Đây là tin tức mới nhất về: Trung tá CSGT bị xe máy tông tử vong. Đọc thêm tại: https://vnexpress.net/trung-ta-csgt-bi-xe-may-tong-tu-vong-4751245.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Nhà khoa học Việt biến bùn thải giấy thành vật liệu có ích",
+            "tag": "'Quy định hưởng bảo hiểm xã hội một lần là vấn đề nhạy cảm'",
             "patterns": [
-                "Nghiên cứu của PGS.TS Nguyễn Đình Quân tận dụng bùn thải nhà máy giấy để sản xuất cellulose vi khuẩn trộn vào vật liệu giúp cho giấy chất lượng cao hơn so với thông thường."
+                "Theo Bộ trưởng Đào Ngọc Dung, quy định hưởng bảo hiểm xã hội một lần là vấn đề nhạy cảm, phức tạp nhất trong dự thảo Luật Bảo hiểm xã hội sửa đổi."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Nhà khoa học Việt biến bùn thải giấy thành vật liệu có ích. Đọc thêm tại: https://vnexpress.net/nha-khoa-hoc-viet-bien-bun-thai-giay-thanh-vat-lieu-co-ich-4745636.html"
+                "Đây là tin tức mới nhất về: 'Quy định hưởng bảo hiểm xã hội một lần là vấn đề nhạy cảm'. Đọc thêm tại: https://vnexpress.net/quy-dinh-huong-bao-hiem-xa-hoi-mot-lan-la-van-de-nhay-cam-4751189.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Chip dùng cho cảm biến thắng giải thiết kế vi mạch TP HCM",
+            "tag": "Cây đổ, đường ngập sau mưa giông lớn ở TP HCM",
             "patterns": [
-                "Chip tăng khả năng thu nhận tín hiệu từ cảm biến, ứng dụng lĩnh vực IoT do sinh viên thực hiện thắng giải thiết kế vi mạch TP HCM với phần thưởng 30 triệu đồng."
+                "Trận mưa lớn kèm gió giật, sấm chớp khiến nhiều cây ngã đổ, đường ngập nửa bánh xe, giao thông rối loạn, chiều tối 27/5."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Chip dùng cho cảm biến thắng giải thiết kế vi mạch TP HCM. Đọc thêm tại: https://vnexpress.net/chip-dung-cho-cam-bien-thang-giai-thiet-ke-vi-mach-tp-hcm-4747706.html"
+                "Đây là tin tức mới nhất về: Cây đổ, đường ngập sau mưa giông lớn ở TP HCM. Đọc thêm tại: https://vnexpress.net/cay-do-duong-ngap-sau-mua-giong-lon-o-tp-hcm-4751215.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "'Nhà khoa học trẻ khởi nghiệp khó khăn nhưng không cô đơn'",
+            "tag": "Thuyền nước ngoài tắt thiết bị vệ tinh, Việt Nam phát thông báo tìm kiếm",
             "patterns": [
-                "Vẫn còn nhiều khó khăn để thương mại hóa sản phẩm nghiên cứu song PGS. TS Mai Anh Tuấn cho rằng các chính sách đang ngày càng tốt lên để các ý tưởng sáng tạo có thể đóng góp cho cộng đồng, phát triển kinh tế."
+                "Thuyền quốc tịch San Marino từ Vũng Tàu đi Hong Kong bị tắt thiết bị vệ tinh, mất tích 5 ngày trên biển, cơ quan chức năng Việt Nam phải phát thông báo tìm kiếm."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: 'Nhà khoa học trẻ khởi nghiệp khó khăn nhưng không cô đơn'. Đọc thêm tại: https://vnexpress.net/nha-khoa-hoc-tre-khoi-nghiep-kho-khan-nhung-khong-co-don-4746980.html"
+                "Đây là tin tức mới nhất về: Thuyền nước ngoài tắt thiết bị vệ tinh, Việt Nam phát thông báo tìm kiếm. Đọc thêm tại: https://vnexpress.net/thuyen-nuoc-ngoai-tat-thiet-bi-ve-tinh-viet-nam-phat-thong-bao-tim-kiem-4751209.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Kỹ sư 8x làm bếp nước ấm cho vùng cao giành giải Sáng kiến",
+            "tag": "Huy động đơn vị làm cao tốc khắc phục hầm đường sắt Chí Thạnh",
             "patterns": [
-                "Quảng NamGiải pháp tận dụng từ nguồn nhiệt dư thừa của bếp củi tạo nước nóng giúp người dân miền núi dùng thay bình nóng lạnh được trao hạng mục 'Sáng kiến' của Cuộc thi Sáng kiến Khoa học 2024"
+                "Phú YênChủ đầu tư mời Tập đoàn Đèo Cả - đơn vị có kinh nghiệm thi công hầm cao tốc để hỗ trợ khắc phục sự cố sạt đường sắt Chí Thạnh."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Kỹ sư 8x làm bếp nước ấm cho vùng cao giành giải Sáng kiến. Đọc thêm tại: https://vnexpress.net/ky-su-8x-lam-bep-nuoc-am-cho-vung-cao-gianh-giai-sang-kien-4746021.html"
+                "Đây là tin tức mới nhất về: Huy động đơn vị làm cao tốc khắc phục hầm đường sắt Chí Thạnh. Đọc thêm tại: https://vnexpress.net/huy-dong-don-vi-lam-cao-toc-khac-phuc-ham-duong-sat-chi-thanh-4751205.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "'Sáng chế giải bài toán của cuộc sống dễ thương mại hóa'",
+            "tag": "'Tuổi nhận trợ cấp hưu trí nên bằng hoặc thấp hơn tuổi thọ trung bình'",
             "patterns": [
-                "Hà NộiTheo các nhà khoa học, từ kết quả nghiên cứu thành sản phẩm không khó, nhưng để thương mại hóa ra sáng chế đó phải bắt nguồn và giải được bài toán cuộc sống đang vướng mắc."
+                "Đại biểu Nguyễn Hữu Thông cho rằng quy định 75 tuổi được nhận trợ cấp hưu trí là không phù hợp khi tuổi thọ trung bình nước ta chỉ ngoài 73."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: 'Sáng chế giải bài toán của cuộc sống dễ thương mại hóa'. Đọc thêm tại: https://vnexpress.net/sang-che-giai-bai-toan-cua-cuoc-song-de-thuong-mai-hoa-4746666-tong-thuat.html"
+                "Đây là tin tức mới nhất về: 'Tuổi nhận trợ cấp hưu trí nên bằng hoặc thấp hơn tuổi thọ trung bình'. Đọc thêm tại: https://vnexpress.net/tuoi-nhan-tro-cap-huu-tri-nen-bang-hoac-thap-hon-tuoi-tho-trung-binh-4751054.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Giao thông thông minh cần kỹ sư giỏi thực hành",
+            "tag": "Lực lượng mũ nồi xanh Việt Nam nhận huân chương bảo vệ Tổ quốc",
             "patterns": [
-                "Các chuyên gia cho rằng phát triển công nghệ ứng dụng giao thông thông minh cần những kỹ sư nhiều thời gian thực hành tại các doanh nghiệp để nâng cao kỹ năng."
+                "Chủ tịch nước tặng Huân chương Bảo vệ Tổ quốc hạng ba cho Cục Gìn giữ hòa bình Việt Nam nhân kỷ niệm 10 năm ngày thành lập."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Giao thông thông minh cần kỹ sư giỏi thực hành. Đọc thêm tại: https://vnexpress.net/giao-thong-thong-minh-can-ky-su-gioi-thuc-hanh-4746501.html"
+                "Đây là tin tức mới nhất về: Lực lượng mũ nồi xanh Việt Nam nhận huân chương bảo vệ Tổ quốc. Đọc thêm tại: https://vnexpress.net/luc-luong-mu-noi-xanh-viet-nam-nhan-huan-chuong-bao-ve-to-quoc-4751041.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Thủ tướng tham quan triển lãm thành tựu khoa học công nghệ Việt Nam",
+            "tag": "Động đất ở Ninh Bình",
             "patterns": [
-                "Thủ tướng Phạm Minh Chính cùng các thành viên Chính phủ thăm quan, trải nghiệm các ứng dụng khoa học công nghệ đã được áp dụng trong nhiều lĩnh vực."
+                "Huyện Nho Quan xảy ra động đất 3,4 độ, độ sâu 17 km, kèm theo tiếng nổ nhỏ, mặt đất rung lắc nhẹ, sáng 27/5."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Thủ tướng tham quan triển lãm thành tựu khoa học công nghệ Việt Nam. Đọc thêm tại: https://vnexpress.net/thu-tuong-tham-quan-trien-lam-thanh-tuu-khoa-hoc-cong-nghe-viet-nam-4746295.html"
+                "Đây là tin tức mới nhất về: Động đất ở Ninh Bình. Đọc thêm tại: https://vnexpress.net/dong-dat-o-ninh-binh-4751053.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Thủ tướng: 'Khoa học công nghệ là con đường ngắn nhất đạt các mục tiêu'",
+            "tag": "Đề xuất phụ nữ được nghỉ khám thai tối đa 10 lần",
             "patterns": [
-                "Hà NộiPhát biểu chúc mừng các nhà khoa học, Thủ tướng Phạm Minh Chính ghi nhận những đóng góp của ngành, khẳng định 'khoa học công nghệ và đổi mới sáng tạo là con đường ngắn nhất để đạt được các mục tiêu'."
+                "Đại biểu Nguyễn Thị Yến Nhi cho rằng sức khỏe thai phụ và thai nhi rất khác nhau ở mỗi người, việc giới hạn 5 lần khám thai là chưa phù hợp, cần tăng lên 10 lần."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Thủ tướng: 'Khoa học công nghệ là con đường ngắn nhất đạt các mục tiêu'. Đọc thêm tại: https://vnexpress.net/thu-tuong-khoa-hoc-cong-nghe-la-con-duong-ngan-nhat-dat-cac-muc-tieu-4746105-tong-thuat.html"
+                "Đây là tin tức mới nhất về: Đề xuất phụ nữ được nghỉ khám thai tối đa 10 lần. Đọc thêm tại: https://vnexpress.net/de-xuat-phu-nu-duoc-nghi-kham-thai-toi-da-10-lan-4750976.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Giáo sư Việt săn tìm 'hạt ma quái'",
+            "tag": "Đà Lạt chưa được mở rộng năm 2025",
             "patterns": [
-                "GS.TS Phùng Văn Đồng cùng cộng sự phát hiện ra mô hình có thể dự đoán khối lượng neutrino và sự tồn tại phổ biến của vật chất tối nhằm khai phá những bí ẩn vũ trụ."
+                "Kế hoạch mở rộng Đà Lạt bằng việc sáp nhập huyện Lạc Dương sẽ được dời sang giai đoạn 2026-2030 thay vì mốc 2025, theo Tỉnh ủy Lâm Đồng."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Giáo sư Việt săn tìm 'hạt ma quái'. Đọc thêm tại: https://vnexpress.net/giao-su-viet-san-tim-hat-ma-quai-4743640.html"
+                "Đây là tin tức mới nhất về: Đà Lạt chưa được mở rộng năm 2025. Đọc thêm tại: https://vnexpress.net/da-lat-chua-duoc-mo-rong-nam-2025-4750968.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "'Giải Tạ Quang Bửu là động lực để nhà khoa học nâng chất lượng công bố'",
+            "tag": "Mức tham chiếu đóng BHXH theo tiền lương mới là 'chưa có cơ sở'",
             "patterns": [
-                "GS.TS Nguyễn Ngọc Minh nhìn nhận việc được trao giải thưởng là động lực để các nhà khoa học nghĩ đến việc cải thiện công bố, góp phần tăng chất lượng nghiên cứu khoa học."
+                "Đại biểu Trần Khánh Thu cho rằng chính sách cải cách tiền lương chưa có hiệu lực nên các cơ quan không có căn cứ xây dựng mức đóng - hưởng BHXH trong luật sửa đổi."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: 'Giải Tạ Quang Bửu là động lực để nhà khoa học nâng chất lượng công bố'. Đọc thêm tại: https://vnexpress.net/giai-ta-quang-buu-la-dong-luc-de-nha-khoa-hoc-nang-chat-luong-cong-bo-4741114.html"
+                "Đây là tin tức mới nhất về: Mức tham chiếu đóng BHXH theo tiền lương mới là 'chưa có cơ sở'. Đọc thêm tại: https://vnexpress.net/muc-tham-chieu-dong-bhxh-theo-tien-luong-moi-la-chua-co-co-so-4750938.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "'Giải Tạ Quang Bửu 2024 nhận được nhiều hồ sơ đề cử chất lượng cao'",
+            "tag": "200 nhà tháo dỡ, giao mặt bằng làm nút giao cửa ngõ Sài Gòn",
             "patterns": [
-                "Theo Hội đồng xét tặng giải Tạ Quang Bửu, năm nay số lượng hồ sơ nhiều, là tín hiệu đáng mừng do những công trình chất lượng công bố quốc tế cao."
+                "Khoảng 200 ngôi nhà được tháo dỡ, di dời để giao mặt bằng mở rộng nút giao Mỹ Thuỷ giải quyết kẹt xe cửa ngõ phía đông TP HCM."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: 'Giải Tạ Quang Bửu 2024 nhận được nhiều hồ sơ đề cử chất lượng cao'. Đọc thêm tại: https://vnexpress.net/giai-ta-quang-buu-2024-nhan-duoc-nhieu-ho-so-de-cu-chat-luong-cao-4744264.html"
+                "Đây là tin tức mới nhất về: 200 nhà tháo dỡ, giao mặt bằng làm nút giao cửa ngõ Sài Gòn. Đọc thêm tại: https://vnexpress.net/200-nha-thao-do-giao-mat-bang-lam-nut-giao-cua-ngo-sai-gon-4750702.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Tác giả có tên trong bài báo công bố quốc tế được duyệt thế nào?",
+            "tag": "Tiếp tục trình Quốc hội hai phương án rút bảo hiểm một lần",
             "patterns": [
-                "Trong quy trình bình duyệt của một tạp chí uy tín ít nhất sẽ có một lần thông báo bằng email nhằm xác nhận thông tin các thành viên, do đó việc đưa tên một người vào danh sách nghiên cứu phải có lý do."
+                "Thường vụ Quốc hội cho rằng rút bảo hiểm một lần là vấn đề khó, liên quan trực tiếp đến quyền lợi lao động nên đề nghị đại biểu thảo luận kỹ để chọn một phương án."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Tác giả có tên trong bài báo công bố quốc tế được duyệt thế nào?. Đọc thêm tại: https://vnexpress.net/tac-gia-co-ten-trong-bai-bao-cong-bo-quoc-te-duoc-duyet-the-nao-4744791.html"
+                "Đây là tin tức mới nhất về: Tiếp tục trình Quốc hội hai phương án rút bảo hiểm một lần. Đọc thêm tại: https://vnexpress.net/tiep-tuc-trinh-quoc-hoi-hai-phuong-an-rut-bao-hiem-mot-lan-4750809.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Lịch sử ra đời Ngày Khoa học công nghệ Việt Nam",
+            "tag": "Cầu lâu đời nhất Đà Nẵng thành điểm du lịch đêm",
             "patterns": [
-                "Ngày 18/5/1963, Chủ tịch Hồ Chí Minh đã gặp mặt giới trí thức, đến năm 2013 Việt Nam đã chọn ngày này để kỷ niệm, tôn vinh những người làm khoa học."
+                "Cầu Nguyễn Văn Trỗi bắc qua sông Hàn, được Mỹ xây dựng từ thời chiến, sắp khai trương tuyến phố đi bộ ngắm cảnh về đêm."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Lịch sử ra đời Ngày Khoa học công nghệ Việt Nam. Đọc thêm tại: https://vnexpress.net/lich-su-ra-doi-ngay-khoa-hoc-cong-nghe-viet-nam-4745142.html"
+                "Đây là tin tức mới nhất về: Cầu lâu đời nhất Đà Nẵng thành điểm du lịch đêm. Đọc thêm tại: https://vnexpress.net/cau-lau-doi-nhat-da-nang-thanh-diem-du-lich-dem-4750625.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "'Cần mở rộng lĩnh vực tại hai trung tâm nghiên cứu Toán và Vật lý'",
+            "tag": "Đề xuất trích lãi từ Quỹ BHXH giải quyết quyền lợi cho 213.000 lao động",
             "patterns": [
-                "Trung tâm Vật lý Quốc tế (ICP) và Trung tâm Quốc tế Đào tạo - Nghiên cứu Toán học (ICRTM) ngoài chương trình nghiên cứu cơ bản cần mở rộng lĩnh vực phù hợp, trong đó có phục vụ phát triển bền vững."
+                "Bộ trưởng Đào Ngọc Dung đề xuất dùng tiền lãi kết dư từ Quỹ BHXH xóa nợ BHXH của doanh nghiệp phá sản, chủ bỏ trốn để giải quyết quyền lợi cho hơn 213.000 lao động."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: 'Cần mở rộng lĩnh vực tại hai trung tâm nghiên cứu Toán và Vật lý'. Đọc thêm tại: https://vnexpress.net/can-mo-rong-linh-vuc-tai-hai-trung-tam-nghien-cuu-toan-va-vat-ly-4744606.html"
+                "Đây là tin tức mới nhất về: Đề xuất trích lãi từ Quỹ BHXH giải quyết quyền lợi cho 213.000 lao động. Đọc thêm tại: https://vnexpress.net/de-xuat-trich-lai-tu-quy-bhxh-giai-quyet-quyen-loi-cho-213-000-lao-dong-4750743.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "'Bài báo quốc tế có tên tác giả Việt bị gỡ liên quan đến bản quyền'",
+            "tag": "Phà ra đảo Cát Bà suýt chìm",
             "patterns": [
-                "Đại học Kinh tế TP HCM (UEH) cho biết việc GS.TS Võ Xuân Vinh liên quan đến bài báo khoa học trên Tạp chí thuộc Nhà xuất bản Springer bị gỡ bỏ do liên quan đến quyền tác giả."
+                "Hải PhòngTrong lúc vào bến Đồng Bài đón khách, phà ra đảo Cát Bà gặp sự cố, nước tràn vào khoang khoảng 80 cm khiến phà suýt chìm."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: 'Bài báo quốc tế có tên tác giả Việt bị gỡ liên quan đến bản quyền'. Đọc thêm tại: https://vnexpress.net/bai-bao-quoc-te-co-ten-tac-gia-viet-bi-go-lien-quan-den-ban-quyen-4744616.html"
+                "Đây là tin tức mới nhất về: Phà ra đảo Cát Bà suýt chìm. Đọc thêm tại: https://vnexpress.net/pha-ra-dao-cat-ba-suyt-chim-4750735.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Tạp chí quốc tế gỡ bài báo khoa học có tên tác giả người Việt",
+            "tag": "Tuần tới miền Bắc và Nam mưa giông",
             "patterns": [
-                "Nhà xuất bản Springer gỡ bài báo khoa học đã xuất bản của nhóm tác giả Trung Quốc, Việt Nam, Ghana và Eswatini, được xuất bản ngày 13/4/2021."
+                "Miền Bắc sẽ mưa giông từ thứ ba tuần tới, dự báo kéo dài đến hết tuần; miền Trung nắng nóng trở lại; miền Nam mưa tập trung vào chiều tối."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Tạp chí quốc tế gỡ bài báo khoa học có tên tác giả người Việt. Đọc thêm tại: https://vnexpress.net/tap-chi-quoc-te-go-bai-bao-khoa-hoc-co-ten-tac-gia-nguoi-viet-4744128.html"
+                "Đây là tin tức mới nhất về: Tuần tới miền Bắc và Nam mưa giông. Đọc thêm tại: https://vnexpress.net/tuan-toi-mien-bac-va-nam-mua-giong-4750719.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Hải Phòng nhìn vào điểm yếu để duy trì vị trí top đầu chỉ số PII",
+            "tag": "Nhiều lao động đến đúng giờ 'điểm danh rồi đi ăn sáng, uống trà'",
             "patterns": [
-                "Hải PhòngĐứng ở vị trí thứ 3 bảng xếp hạng Chỉ số đổi mới sáng tạo cấp địa phương (PII 2023), lãnh đạo TP Hải Phòng xác định còn yếu về sản phẩm tri thức, sáng tạo - công nghệ và ít bằng sáng chế."
+                "Cán bộ doanh nghiệp nêu thực tế nhiều lao động coi nhẹ tác phong làm việc, đi trễ, về sớm, hoặc đến đúng giờ điểm danh rồi làm việc riêng khiến năng suất không cao."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Hải Phòng nhìn vào điểm yếu để duy trì vị trí top đầu chỉ số PII. Đọc thêm tại: https://vnexpress.net/hai-phong-nhin-vao-diem-yeu-de-duy-tri-vi-tri-top-dau-chi-so-pii-4744161.html"
+                "Đây là tin tức mới nhất về: Nhiều lao động đến đúng giờ 'điểm danh rồi đi ăn sáng, uống trà'. Đọc thêm tại: https://vnexpress.net/nhieu-lao-dong-den-dung-gio-diem-danh-roi-di-an-sang-uong-tra-4750713.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Gia Lai muốn ứng dụng khoa học phục hồi rừng khộp",
+            "tag": "Hai công nhân tử vong vì tai nạn lao động",
             "patterns": [
-                "Gia LaiTỉnh Gia Lai đề xuất Bộ Khoa học và Công nghệ hỗ trợ các nhiệm vụ, đề tài nhằm nghiên cứu cơ sở khoa học phục hồi và quản lý bền vững hệ sinh thái rừng khộp."
+                "Bình PhướcTrong lúc làm việc, hai công nhân ở thị xã Chơn Thành gặp tai nạn lao động, tử vong sau đó."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Gia Lai muốn ứng dụng khoa học phục hồi rừng khộp. Đọc thêm tại: https://vnexpress.net/gia-lai-muon-ung-dung-khoa-hoc-phuc-hoi-rung-khop-4743867.html"
+                "Đây là tin tức mới nhất về: Hai công nhân tử vong vì tai nạn lao động. Đọc thêm tại: https://vnexpress.net/hai-cong-nhan-tu-vong-vi-tai-nan-lao-dong-4750695.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Nâng cao chất lượng thanh tra khoa học công nghệ",
+            "tag": "Tiếp tục kiến nghị giảm giờ làm trong doanh nghiệp xuống 44 giờ",
             "patterns": [
-                "Quản lý nhà nước về khoa học công nghệ có phạm vi rộng, chuyên ngành phức tạp, lãnh đạo Bộ Khoa học và Công nghệ yêu cầu cán bộ thanh tra cần có kiến thức chuyên sâu."
+                "Lần thứ hai trong nửa năm, Công đoàn kiến nghị Chính phủ xây dựng lộ trình giảm giờ làm trong tuần của lao động khu vực tư nhân từ 48 xuống 44, tiến tới 40 giờ."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Nâng cao chất lượng thanh tra khoa học công nghệ. Đọc thêm tại: https://vnexpress.net/nang-cao-chat-luong-thanh-tra-khoa-hoc-cong-nghe-4743915.html"
+                "Đây là tin tức mới nhất về: Tiếp tục kiến nghị giảm giờ làm trong doanh nghiệp xuống 44 giờ. Đọc thêm tại: https://vnexpress.net/tiep-tuc-kien-nghi-giam-gio-lam-trong-doanh-nghiep-xuong-44-gio-4750649.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Thừa Thiên Huế đặt mục tiêu vào top 10 địa phương đổi mới sáng tạo",
+            "tag": "Doanh nghiệp tìm cách thích nghi với Gen Z",
             "patterns": [
-                "Thừa Thiên Huế lên kế hoạch cải thiện Chỉ số đổi mới sáng tạo địa phương (PII) bằng nhiều giải pháp, trong đó có đầu tư vào khoa học, công nghệ, hỗ trợ các ý tưởng đổi mới, sáng tạo, sáng chế, đẩy mạnh thương mại hóa kết quả nghiên cứu."
+                "Gen Z chiếm chưa đến 2% nhân sự nhưng tỷ lệ nghỉ việc hơn 20% khiến Schneider Electric Việt Nam thay đổi chiến lược để tránh khủng hoảng đội ngũ kế cận."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Thừa Thiên Huế đặt mục tiêu vào top 10 địa phương đổi mới sáng tạo. Đọc thêm tại: https://vnexpress.net/thua-thien-hue-dat-muc-tieu-vao-top-10-dia-phuong-doi-moi-sang-tao-4743480.html"
+                "Đây là tin tức mới nhất về: Doanh nghiệp tìm cách thích nghi với Gen Z. Đọc thêm tại: https://vnexpress.net/doanh-nghiep-tim-cach-thich-nghi-voi-gen-z-4749318.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Sân bay Hòa Lạc, Gia Lâm sẽ hoạt động cả quân sự và dân dụng",
+            "patterns": [
+                "Bộ Chính trị thống nhất bổ sung chức năng lưỡng dụng cho các sân bay quân sự Gia Lâm, Hòa Lạc và xây dựng sân bay thứ hai ở Hà Nội."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Sân bay Hòa Lạc, Gia Lâm sẽ hoạt động cả quân sự và dân dụng. Đọc thêm tại: https://vnexpress.net/san-bay-hoa-lac-gia-lam-se-hoat-dong-ca-quan-su-va-dan-dung-4750577.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Nước sông Bắc Hưng Hải đen kịt",
+            "patterns": [
+                "Hệ thống thủy lợi Bắc Hưng Hải phục vụ nước tưới cho đồng bằng Bắc Bộ bị ô nhiễm, nước đen kịt và đầy rác, tôm cá không thể sinh sống."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Nước sông Bắc Hưng Hải đen kịt. Đọc thêm tại: https://vnexpress.net/nuoc-song-bac-hung-hai-den-kit-4750074.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "'Biệt đội' bảo vệ cá sông",
+            "patterns": [
+                "Đồng ThápĐội bảo vệ cá sông quy tụ những người muốn bảo tồn, tái tạo nguồn lợi thủy sản vốn đang cạn kiệt ở dòng Cửu Long."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 'Biệt đội' bảo vệ cá sông. Đọc thêm tại: https://vnexpress.net/biet-doi-bao-ve-ca-song-4749009.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "'Dự án cao tốc Gia Nghĩa - Chơn Thành sẽ là tuyến đường đẹp'",
+            "patterns": [
+                "Bộ trưởng Nguyễn Văn Thắng cho rằng dự án cao tốc Bắc - Nam phía Tây đoạn Gia Nghĩa - Chơn Thành nếu được đầu tư sẽ là tuyến đường đẹp, được người dân Đông Nam Bộ chờ đợi."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 'Dự án cao tốc Gia Nghĩa - Chơn Thành sẽ là tuyến đường đẹp'. Đọc thêm tại: https://vnexpress.net/du-an-cao-toc-gia-nghia-chon-thanh-se-la-tuyen-duong-dep-4750566.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Đà Lạt muốn mở phố đi bộ bên hồ Xuân Hương",
+            "patterns": [
+                "Lâm ĐồngChính quyền Đà Lạt đề xuất mở phố đi bộ Trần Quốc Toản dài 1,6 km chạy ven hồ Xuân Hương, hoạt động vào ba đêm cuối tuần."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Đà Lạt muốn mở phố đi bộ bên hồ Xuân Hương. Đọc thêm tại: https://vnexpress.net/da-lat-muon-mo-pho-di-bo-ben-ho-xuan-huong-4750573.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Dự án chống ngập lớn nhất TP HCM phát sinh lãi 2 tỷ đồng mỗi ngày",
+            "patterns": [
+                "Công trình chống ngập do triều ở TP HCM tổng đầu tư 10.000 tỷ đồng trễ hẹn 6 năm, phát sinh lãi khoảng 2 tỷ đồng mỗi ngày, nhà đầu tư đề nghị thành phố điều chỉnh vốn."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Dự án chống ngập lớn nhất TP HCM phát sinh lãi 2 tỷ đồng mỗi ngày. Đọc thêm tại: https://vnexpress.net/du-an-chong-ngap-lon-nhat-tp-hcm-phat-sinh-lai-2-ty-dong-moi-ngay-4750565.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Phát hiện dấu tích ngôi đền cổ thờ Phật giáo ở Tây Nguyên",
+            "patterns": [
+                "Gia LaiBên trong kho thiêng (hố thiêng) được khai quật có nhiều hiện vật dâng cúng bằng kim loại, trang sức đá, thủy tinh... là dấu tích ngôi đền cổ thờ Phật giáo thế kỷ 9-13."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Phát hiện dấu tích ngôi đền cổ thờ Phật giáo ở Tây Nguyên. Đọc thêm tại: https://vnexpress.net/phat-hien-dau-tich-ngoi-den-co-tho-phat-giao-o-tay-nguyen-4750542.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "21 yêu cầu với chủ nhà trọ nhằm hạn chế thiệt hại cháy nổ",
+            "patterns": [
+                "Chủ trọ không lắp đặt \"chuồng cọp\", không sắp xếp hàng hóa, vật dụng cản trở lối thoát nạn và có lối thoát nạn dự phòng, có thể là thang sắt, thang dây..."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 21 yêu cầu với chủ nhà trọ nhằm hạn chế thiệt hại cháy nổ. Đọc thêm tại: https://vnexpress.net/21-yeu-cau-voi-chu-nha-tro-nham-han-che-thiet-hai-chay-no-4750516.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Kiến nghị Quốc hội ra nghị quyết riêng để khắc phục 'cán bộ sợ trách nhiệm'",
+            "patterns": [
+                "Đại biểu Hoàng Văn Cường đề nghị Quốc hội ban hành nghị quyết cho phép cán bộ được vận dụng quy định pháp luật linh hoạt để thực thi nhiệm vụ."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Kiến nghị Quốc hội ra nghị quyết riêng để khắc phục 'cán bộ sợ trách nhiệm'. Đọc thêm tại: https://vnexpress.net/kien-nghi-quoc-hoi-ra-nghi-quyet-rieng-de-khac-phuc-can-bo-so-trach-nhiem-4750460.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Phần lớn nạn nhân vụ cháy ở Trung Kính dưới 30 tuổi",
+            "patterns": [
+                "Hà Nội14 nạn nhân tử vong trong vụ cháy ở Trung Kính thì 11 người dưới 30 tuổi, hai người trẻ nhất 23 tuổi và già nhất 64 tuổi."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Phần lớn nạn nhân vụ cháy ở Trung Kính dưới 30 tuổi. Đọc thêm tại: https://vnexpress.net/phan-lon-nan-nhan-vu-chay-o-trung-kinh-duoi-30-tuoi-4750452.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Được - mất khi chuyển đổi taxi xăng sang điện",
+            "patterns": [
+                "Lợi ích khi chuyển từ taxi xăng sang taxi điện là chi phí vận hành giảm, nhưng vốn đầu tư lớn, thời gian hoàn vốn dài, giá cước tăng, theo nhiều doanh nghiệp."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Được - mất khi chuyển đổi taxi xăng sang điện. Đọc thêm tại: https://vnexpress.net/duoc-mat-khi-chuyen-doi-taxi-xang-sang-dien-4750262.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Đề xuất chưa sáp nhập quê Hồ Xuân Hương",
+            "patterns": [
+                "UBND tỉnh Nghệ An đề xuất lên Ban thường vụ Tỉnh ủy chưa sáp nhập xã Quỳnh Đôi - quê nữ sĩ Hồ Xuân Hương và xã Quỳnh Hậu, sau khi tên mới Đôi Hậu gây tranh cãi."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Đề xuất chưa sáp nhập quê Hồ Xuân Hương. Đọc thêm tại: https://vnexpress.net/de-xuat-chua-sap-nhap-que-ho-xuan-huong-4750438.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Chuyên gia: 'Làm đảo vườn trên sông là giải pháp kiến trúc mới'",
+            "patterns": [
+                "Ủng hộ ý tưởng xây đảo vườn giữa sông Sài Gòn để tăng kết nối đôi bờ, KTS Khương Văn Mười cho rằng đây là giải pháp kiến trúc, quy hoạch mới đã được nhiều nước áp dụng."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Chuyên gia: 'Làm đảo vườn trên sông là giải pháp kiến trúc mới'. Đọc thêm tại: https://vnexpress.net/chuyen-gia-lam-dao-vuon-tren-song-la-giai-phap-kien-truc-moi-4750086.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Hôm nay Quốc hội thảo luận kết quả phục hồi kinh tế - xã hội",
+            "patterns": [
+                "Ngày 25/5, Quốc hội thảo luận kết quả giám sát thực hiện Nghị quyết số 43/2022 về chính sách tài khóa, tiền tệ hỗ trợ phục hồi, phát triển kinh tế - xã hội."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Hôm nay Quốc hội thảo luận kết quả phục hồi kinh tế - xã hội. Đọc thêm tại: https://vnexpress.net/hom-nay-quoc-hoi-thao-luan-ket-qua-phuc-hoi-kinh-te-xa-hoi-4750327.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Dự án nghỉ dưỡng bỏ hoang trên 'đất vàng' ven biển",
+            "patterns": [
+                "Quảng NamBa dự án nằm trên cung đường ven biển Lạc Long Quân bị chậm tiến độ, bỏ hoang nhiều năm qua, gây lãng phí đất đai."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Dự án nghỉ dưỡng bỏ hoang trên 'đất vàng' ven biển. Đọc thêm tại: https://vnexpress.net/du-an-nghi-duong-bo-hoang-tren-dat-vang-ven-bien-4750137.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Đề xuất Bộ Quốc phòng, Công an cùng được quyền áp dụng biện pháp cảnh vệ",
+            "patterns": [
+                "Đại biểu Nguyễn Quốc Duyệt đề xuất quy định quyền áp dụng biện pháp cảnh vệ cho cả Bộ trưởng Công an và Quốc phòng, vì lực lượng cảnh vệ bao gồm cả công an và quân đội."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Đề xuất Bộ Quốc phòng, Công an cùng được quyền áp dụng biện pháp cảnh vệ. Đọc thêm tại: https://vnexpress.net/de-xuat-bo-quoc-phong-cong-an-cung-duoc-quyen-ap-dung-bien-phap-canh-ve-4750244.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Thả gia súc, ném đá vào ôtô trên cao tốc Cam Lâm – Vĩnh Hảo",
+            "patterns": [
+                "Nhiều người dân cắt rào, thả gia súc, ném đá vào xe chạy trên cao tốc Cam Lâm – Vĩnh Hảo qua địa bàn Khánh Hoà và Ninh Thuận, theo ban quản lý dự án."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Thả gia súc, ném đá vào ôtô trên cao tốc Cam Lâm – Vĩnh Hảo. Đọc thêm tại: https://vnexpress.net/tha-gia-suc-nem-da-vao-oto-tren-cao-toc-cam-lam-vinh-hao-4750194.html"
             ],
             "context": [
                 ""
