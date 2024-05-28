@@ -56,7 +56,7 @@
             "tag": "noanswer",
             "patterns": [],
             "responses": [
-                "Xin lỗi, tôi không thể hiểu",
+                "Xin lỗi, tôi không thể hiểu bạn",
                 "Vui lòng cung cấp thêm thông tin",
                 "Tôi không chắc mình đã hiểu"
             ],

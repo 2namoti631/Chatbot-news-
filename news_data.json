@@ -1,6 +1,54 @@
 {
     "intents": [
         {
+            "tag": "Doanh nhân 2 lần bị bắt oan được VKS An Giang, Long An xin lỗi",
+            "patterns": [
+                "Ông Lâm Hồng Sơn, Việt kiều Mỹ, được VKS hai tỉnh xin lỗi công khai, phục hồi danh dự sau 34 năm bị bắt giam oan 2 lần, sáng 28/5."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Doanh nhân 2 lần bị bắt oan được VKS An Giang, Long An xin lỗi. Đọc thêm tại: https://vnexpress.net/doanh-nhan-2-lan-bi-bat-oan-duoc-vks-an-giang-long-an-xin-loi-4751379.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Đứa trẻ không được ăn đùi gà",
+            "patterns": [
+                "Làm thế nào để giáo viên tránh được tình thế mắc lỗi trong câu chuyện thiếu suất đùi gà cho học sinh?"
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Đứa trẻ không được ăn đùi gà. Đọc thêm tại: https://vnexpress.net/dua-tre-khong-duoc-an-dui-ga-4751249.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Cơ thủ Thổ Nhĩ Kì: 'Khán giả Việt Nam gây phiền cho tôi'",
+            "patterns": [
+                "TP HCMCơ thủ số 14 thế giới Tolgahan Kiraz thấy phiền khi khán giả chủ nhà giải World Cup billards carom 3 băng vỗ tay mỗi khi anh hụt điểm."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Cơ thủ Thổ Nhĩ Kì: 'Khán giả Việt Nam gây phiền cho tôi'. Đọc thêm tại: https://vnexpress.net/co-thu-tho-nhi-ki-khan-gia-viet-nam-gay-phien-cho-toi-4751394.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Ngân hàng, ví điện tử chạy nước rút xác thực khuôn mặt khách hàng",
+            "patterns": [
+                "Các nhà băng, ví điện tử những ngày gần đây giục khách hàng cập nhật khuôn mặt và căn cước công dân gắn chip để tránh gián đoạn giao dịch online giá trị lớn."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Ngân hàng, ví điện tử chạy nước rút xác thực khuôn mặt khách hàng. Đọc thêm tại: https://vnexpress.net/ngan-hang-vi-dien-tu-chay-nuoc-rut-xac-thuc-khuon-mat-khach-hang-4751106.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
             "tag": "Hà Nội muốn có gần 100 km đường sắt đô thị đến năm 2030",
             "patterns": [
                 "UBND TP Hà Nội đặt mục tiêu đến năm 2030 xây dựng xong 96,8 km đường sắt đô thị và hoàn thành mạng lưới 550 km đến năm 2045."
@@ -13,24 +61,24 @@
             ]
         },
         {
-            "tag": "Dừng xây dựng trường học, cầu treo vì địa giới chồng lấn",
+            "tag": "Đại biểu đề nghị cởi mở cho phóng viên ghi âm tại phiên tòa",
             "patterns": [
-                "Quảng NamMạnh thường quân đầu tư 760 triệu đồng xây điểm trường và cầu treo ở xã Trà Vinh, đến khi công trình gần hoàn thành thì phải dừng do địa giới chồng lấn."
+                "Trước việc tòa án muốn thắt chặt việc ghi âm, ghi hình với lý do duy trì trật tự, đại biểu Việt Nga đề nghị riêng với báo chí cần cởi mở hơn trong quy định này."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Dừng xây dựng trường học, cầu treo vì địa giới chồng lấn. Đọc thêm tại: https://vnexpress.net/dung-xay-dung-truong-hoc-cau-treo-vi-dia-gioi-chong-lan-4751321.html"
+                "Đây là tin tức mới nhất về: Đại biểu đề nghị cởi mở cho phóng viên ghi âm tại phiên tòa. Đọc thêm tại: https://vnexpress.net/dai-bieu-de-nghi-coi-mo-cho-phong-vien-ghi-am-tai-phien-toa-4751402.html"
             ],
             "context": [
                 ""
             ]
         },
         {
-            "tag": "Cháy lớn nhà máy sản xuất quạt ở Bình Dương",
+            "tag": "HLV Vũ Tiến Thành bị phạt 20 triệu đồng vì bôi nhọ VFF, VPF",
             "patterns": [
-                "Hoả hoạn xảy ra từ nhà xưởng sản xuất quạt thông gió và công ty phân phối lốp ôtô gần đường ĐT 743, TP Dĩ An, sáng 28/5."
+                "HLV của HAGL bị xác định vi phạm về phát ngôn và ứng xử, gây ảnh hưởng nghiêm trọng đến hình ảnh của bóng đá Việt Nam, sau khi thua TP HCM tại vòng 21 V-League 2023-2024."
             ],
             "responses": [
-                "Đây là tin tức mới nhất về: Cháy lớn nhà máy sản xuất quạt ở Bình Dương. Đọc thêm tại: https://vnexpress.net/chay-lon-nha-may-san-xuat-quat-o-binh-duong-4751357.html"
+                "Đây là tin tức mới nhất về: HLV Vũ Tiến Thành bị phạt 20 triệu đồng vì bôi nhọ VFF, VPF. Đọc thêm tại: https://vnexpress.net/hlv-vu-tien-thanh-bi-phat-20-trieu-dong-vi-boi-nho-vff-vpf-4751390.html"
             ],
             "context": [
                 ""
@@ -49,6 +97,114 @@
             ]
         },
         {
+            "tag": "Thiết giáp Bradley cứu lính Ukraine giữa làn đạn",
+            "patterns": [
+                "Thiết giáp Bradley Ukraine bị trúng đòn liên tục khi tới sơ tán kíp chiến đấu trên một chiếc khác, song vẫn đưa họ trở về an toàn."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Thiết giáp Bradley cứu lính Ukraine giữa làn đạn. Đọc thêm tại: https://vnexpress.net/thiet-giap-bradley-cuu-linh-ukraine-giua-lan-dan-4751339.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Nhiều nhà bị tốc mái, cây gãy đổ trong mưa giông",
+            "patterns": [
+                "Mưa lớn kéo dài hơn hai giờ, kèm giông lốc làm nhiều nhà dân tại Lâm Đồng, Bình Phước bị tốc mái, ngập úng, hàng loạt cây xanh gãy đổ, sáng 28/5."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Nhiều nhà bị tốc mái, cây gãy đổ trong mưa giông. Đọc thêm tại: https://vnexpress.net/nhieu-nha-bi-toc-mai-cay-gay-do-trong-mua-giong-4751419.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Đề xuất sửa đổi để 3 luật liên quan bất động sản có hiệu lực sớm",
+            "patterns": [
+                "Chính phủ đề xuất Quốc hội xây dựng luật sửa đổi, bổ sung một số điều của Luật Đất đai, Nhà ở, Kinh doanh bất động sản, để các luật này có hiệu lực sớm từ 1/8."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Đề xuất sửa đổi để 3 luật liên quan bất động sản có hiệu lực sớm. Đọc thêm tại: https://vnexpress.net/de-xuat-sua-doi-de-3-luat-lien-quan-bat-dong-san-co-hieu-luc-som-4751283.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Trẻ 5 tuổi được miễn học phí từ ngày 1/9",
+            "patterns": [
+                "Trẻ mầm non 5 tuổi ở các trường công lập được miễn học phí từ đầu năm học tới."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Trẻ 5 tuổi được miễn học phí từ ngày 1/9. Đọc thêm tại: https://vnexpress.net/tre-5-tuoi-duoc-mien-hoc-phi-tu-ngay-1-9-4751118.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Nuôi cá chình kiếm hàng tỷ đồng mỗi năm",
+            "patterns": [
+                "Cà Mau25 năm gắn bó với nghề, ông Nguyễn Hữu Ánh, 67 tuổi, được mệnh danh là \"vua cá chình\" ở miền Tây, mỗi năm thu lãi hơn 4 tỷ đồng."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Nuôi cá chình kiếm hàng tỷ đồng mỗi năm. Đọc thêm tại: https://video.vnexpress.net/nuoi-ca-chinh-kiem-hang-ty-dong-moi-nam-4750757.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Phi cơ chở hơn 150 người cháy động cơ ngay trước khi cất cánh",
+            "patterns": [
+                "MỹPhi cơ của hãng United Airlines bị cháy động cơ khi chuẩn bị cất cánh ở bang Illinois, buộc chuyến bay phải hủy."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Phi cơ chở hơn 150 người cháy động cơ ngay trước khi cất cánh. Đọc thêm tại: https://vnexpress.net/phi-co-cho-hon-150-nguoi-chay-dong-co-ngay-truoc-khi-cat-canh-4751279.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Nga có thể đã vội vã mở chiến dịch Kharkov",
+            "patterns": [
+                "Các chuyên gia Mỹ cho rằng Nga bắt đầu chiến dịch tiến công Kharkov quá sớm khi chưa đủ quân, vì muốn chớp thời cơ trước khi Ukraine nhận viện trợ."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Nga có thể đã vội vã mở chiến dịch Kharkov. Đọc thêm tại: https://vnexpress.net/nga-co-the-da-voi-va-mo-chien-dich-kharkov-4751314.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Ancelotti: Real lo sợ trước chung kết Champions League",
+            "patterns": [
+                "Tây Ban NhaHLV Carlo Ancelotti cho biết nhiều cầu thủ Real Madrid lo sợ khi chuẩn bị đấu Dortmund ở chung kết Champions League."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Ancelotti: Real lo sợ trước chung kết Champions League. Đọc thêm tại: https://vnexpress.net/ancelotti-real-lo-so-truoc-chung-ket-champions-league-4751276.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Báo quốc tế khen đầm Công Trí ở Cannes",
+            "patterns": [
+                "Tạp chí Harper's Bazaar, trang E! News của Mỹ chọn đầm Công Trí vào nhóm trang phục đẹp ở liên hoan phim tại Pháp."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Báo quốc tế khen đầm Công Trí ở Cannes. Đọc thêm tại: https://vnexpress.net/bao-quoc-te-khen-dam-cong-tri-o-cannes-4751397.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
             "tag": "Luồn rừng sâu giải cứu hàng trăm động vật quý hiếm",
             "patterns": [
                 "Kon TumTrong quá trình tuần tra, lực lượng bảo vệ Vườn quốc gia Chư Mom Ray tìm, tháo gỡ hàng chục nghìn bẫy thú, giải cứu hàng trăm động vật hoang dã."
@@ -61,468 +217,84 @@
             ]
         },
         {
+            "tag": "Ukraine kêu gọi phương Tây ép Nga tham gia đàm phán hòa bình",
+            "patterns": [
+                "Tổng thống Ukraine Zelensky kêu gọi các nước đồng minh phương Tây \"dùng mọi biện pháp\" để buộc Nga phải tham gia đàm phán hòa bình kết thúc chiến sự."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Ukraine kêu gọi phương Tây ép Nga tham gia đàm phán hòa bình. Đọc thêm tại: https://vnexpress.net/ukraine-keu-goi-phuong-tay-ep-nga-tham-gia-dam-phan-hoa-binh-4751269.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "WHO cảnh báo đại dịch cúm lây từ động vật sang người",
+            "patterns": [
+                "Tổ chức Y tế Thế giới (WHO) cảnh báo châu Âu cần chuẩn bị cho một đại dịch cúm có nguy cơ cao lây từ động vật sang người."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: WHO cảnh báo đại dịch cúm lây từ động vật sang người. Đọc thêm tại: https://vnexpress.net/who-canh-bao-dai-dich-cum-lay-tu-dong-vat-sang-nguoi-4751368.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Ronaldo lập kỷ lục ghi bàn trong một mùa Saudi Pro League",
+            "patterns": [
+                "Arab SaudiCú đúp trong trận Al Nassr thắng Al Ittihad 4-2 ở vòng cuối giúp Cristiano Ronaldo kết thúc mùa giải 2023-2024 với 35 bàn."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Ronaldo lập kỷ lục ghi bàn trong một mùa Saudi Pro League. Đọc thêm tại: https://vnexpress.net/ronaldo-lap-ky-luc-ghi-ban-trong-mot-mua-saudi-pro-league-4751289.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Cơ thủ Đức Minh chơi đẹp ở chung kết World Cup",
+            "patterns": [
+                "Cơ thủ Trần Đức Minh suýt đánh nhầm bi cái đối thủ ở chung kết Billiards carom 3 băng World Cup, được khán giả nhắc nên cố ý không ghi điểm."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Cơ thủ Đức Minh chơi đẹp ở chung kết World Cup. Đọc thêm tại: https://vnexpress.net/co-thu-duc-minh-choi-dep-o-chung-ket-world-cup-4751163.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Vàng 'vô hình' có thể trị giá 24 tỷ USD ở Nam Phi",
+            "patterns": [
+                "Vùng Witwatersrand có những đồi quặng đuôi chứa lượng vàng ước tính trị giá tới 24 tỷ USD, có thể khai thác bằng phương pháp mới hiệu quả hơn."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Vàng 'vô hình' có thể trị giá 24 tỷ USD ở Nam Phi. Đọc thêm tại: https://vnexpress.net/vang-vo-hinh-co-the-tri-gia-24-ty-usd-o-nam-phi-4751287.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "10.000 người tuần hành ở Paris phản đối Israel không kích Rafah",
+            "patterns": [
+                "PhápHàng nghìn người tham gia biểu tình gần đại sứ quán Israel ở Paris để phản đối vụ không kích vào nơi sơ tán ở Rafah."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 10.000 người tuần hành ở Paris phản đối Israel không kích Rafah. Đọc thêm tại: https://vnexpress.net/10-000-nguoi-tuan-hanh-o-paris-phan-doi-israel-khong-kich-rafah-4751329.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
             "tag": "Dự án thủy cung lấn biển Vũng Tàu xây lại sau 4 năm dừng",
             "patterns": [
                 "Chính quyền Bà Rịa - Vũng Tàu cho chủ đầu tư tiếp tục thi công đê chắn sóng và san lấp mặt bằng dự án xây dựng thủy cung ở gần biển Bãi Trước, sau hơn 4 năm dừng."
             ],
             "responses": [
                 "Đây là tin tức mới nhất về: Dự án thủy cung lấn biển Vũng Tàu xây lại sau 4 năm dừng. Đọc thêm tại: https://vnexpress.net/du-an-thuy-cung-lan-bien-vung-tau-xay-lai-sau-4-nam-dung-4751216.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Trung tá CSGT bị xe máy tông tử vong",
-            "patterns": [
-                "Khánh HòaTrung tá Phan Trần Anh Phương, 40 tuổi đang làm nhiệm vụ bị nam thanh niên lái xe máy tông tử vong, trưa 27/5."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Trung tá CSGT bị xe máy tông tử vong. Đọc thêm tại: https://vnexpress.net/trung-ta-csgt-bi-xe-may-tong-tu-vong-4751245.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "'Quy định hưởng bảo hiểm xã hội một lần là vấn đề nhạy cảm'",
-            "patterns": [
-                "Theo Bộ trưởng Đào Ngọc Dung, quy định hưởng bảo hiểm xã hội một lần là vấn đề nhạy cảm, phức tạp nhất trong dự thảo Luật Bảo hiểm xã hội sửa đổi."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: 'Quy định hưởng bảo hiểm xã hội một lần là vấn đề nhạy cảm'. Đọc thêm tại: https://vnexpress.net/quy-dinh-huong-bao-hiem-xa-hoi-mot-lan-la-van-de-nhay-cam-4751189.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Cây đổ, đường ngập sau mưa giông lớn ở TP HCM",
-            "patterns": [
-                "Trận mưa lớn kèm gió giật, sấm chớp khiến nhiều cây ngã đổ, đường ngập nửa bánh xe, giao thông rối loạn, chiều tối 27/5."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Cây đổ, đường ngập sau mưa giông lớn ở TP HCM. Đọc thêm tại: https://vnexpress.net/cay-do-duong-ngap-sau-mua-giong-lon-o-tp-hcm-4751215.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Thuyền nước ngoài tắt thiết bị vệ tinh, Việt Nam phát thông báo tìm kiếm",
-            "patterns": [
-                "Thuyền quốc tịch San Marino từ Vũng Tàu đi Hong Kong bị tắt thiết bị vệ tinh, mất tích 5 ngày trên biển, cơ quan chức năng Việt Nam phải phát thông báo tìm kiếm."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Thuyền nước ngoài tắt thiết bị vệ tinh, Việt Nam phát thông báo tìm kiếm. Đọc thêm tại: https://vnexpress.net/thuyen-nuoc-ngoai-tat-thiet-bi-ve-tinh-viet-nam-phat-thong-bao-tim-kiem-4751209.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Huy động đơn vị làm cao tốc khắc phục hầm đường sắt Chí Thạnh",
-            "patterns": [
-                "Phú YênChủ đầu tư mời Tập đoàn Đèo Cả - đơn vị có kinh nghiệm thi công hầm cao tốc để hỗ trợ khắc phục sự cố sạt đường sắt Chí Thạnh."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Huy động đơn vị làm cao tốc khắc phục hầm đường sắt Chí Thạnh. Đọc thêm tại: https://vnexpress.net/huy-dong-don-vi-lam-cao-toc-khac-phuc-ham-duong-sat-chi-thanh-4751205.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "'Tuổi nhận trợ cấp hưu trí nên bằng hoặc thấp hơn tuổi thọ trung bình'",
-            "patterns": [
-                "Đại biểu Nguyễn Hữu Thông cho rằng quy định 75 tuổi được nhận trợ cấp hưu trí là không phù hợp khi tuổi thọ trung bình nước ta chỉ ngoài 73."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: 'Tuổi nhận trợ cấp hưu trí nên bằng hoặc thấp hơn tuổi thọ trung bình'. Đọc thêm tại: https://vnexpress.net/tuoi-nhan-tro-cap-huu-tri-nen-bang-hoac-thap-hon-tuoi-tho-trung-binh-4751054.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Lực lượng mũ nồi xanh Việt Nam nhận huân chương bảo vệ Tổ quốc",
-            "patterns": [
-                "Chủ tịch nước tặng Huân chương Bảo vệ Tổ quốc hạng ba cho Cục Gìn giữ hòa bình Việt Nam nhân kỷ niệm 10 năm ngày thành lập."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Lực lượng mũ nồi xanh Việt Nam nhận huân chương bảo vệ Tổ quốc. Đọc thêm tại: https://vnexpress.net/luc-luong-mu-noi-xanh-viet-nam-nhan-huan-chuong-bao-ve-to-quoc-4751041.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Động đất ở Ninh Bình",
-            "patterns": [
-                "Huyện Nho Quan xảy ra động đất 3,4 độ, độ sâu 17 km, kèm theo tiếng nổ nhỏ, mặt đất rung lắc nhẹ, sáng 27/5."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Động đất ở Ninh Bình. Đọc thêm tại: https://vnexpress.net/dong-dat-o-ninh-binh-4751053.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Đề xuất phụ nữ được nghỉ khám thai tối đa 10 lần",
-            "patterns": [
-                "Đại biểu Nguyễn Thị Yến Nhi cho rằng sức khỏe thai phụ và thai nhi rất khác nhau ở mỗi người, việc giới hạn 5 lần khám thai là chưa phù hợp, cần tăng lên 10 lần."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Đề xuất phụ nữ được nghỉ khám thai tối đa 10 lần. Đọc thêm tại: https://vnexpress.net/de-xuat-phu-nu-duoc-nghi-kham-thai-toi-da-10-lan-4750976.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Đà Lạt chưa được mở rộng năm 2025",
-            "patterns": [
-                "Kế hoạch mở rộng Đà Lạt bằng việc sáp nhập huyện Lạc Dương sẽ được dời sang giai đoạn 2026-2030 thay vì mốc 2025, theo Tỉnh ủy Lâm Đồng."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Đà Lạt chưa được mở rộng năm 2025. Đọc thêm tại: https://vnexpress.net/da-lat-chua-duoc-mo-rong-nam-2025-4750968.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Mức tham chiếu đóng BHXH theo tiền lương mới là 'chưa có cơ sở'",
-            "patterns": [
-                "Đại biểu Trần Khánh Thu cho rằng chính sách cải cách tiền lương chưa có hiệu lực nên các cơ quan không có căn cứ xây dựng mức đóng - hưởng BHXH trong luật sửa đổi."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Mức tham chiếu đóng BHXH theo tiền lương mới là 'chưa có cơ sở'. Đọc thêm tại: https://vnexpress.net/muc-tham-chieu-dong-bhxh-theo-tien-luong-moi-la-chua-co-co-so-4750938.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "200 nhà tháo dỡ, giao mặt bằng làm nút giao cửa ngõ Sài Gòn",
-            "patterns": [
-                "Khoảng 200 ngôi nhà được tháo dỡ, di dời để giao mặt bằng mở rộng nút giao Mỹ Thuỷ giải quyết kẹt xe cửa ngõ phía đông TP HCM."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: 200 nhà tháo dỡ, giao mặt bằng làm nút giao cửa ngõ Sài Gòn. Đọc thêm tại: https://vnexpress.net/200-nha-thao-do-giao-mat-bang-lam-nut-giao-cua-ngo-sai-gon-4750702.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Tiếp tục trình Quốc hội hai phương án rút bảo hiểm một lần",
-            "patterns": [
-                "Thường vụ Quốc hội cho rằng rút bảo hiểm một lần là vấn đề khó, liên quan trực tiếp đến quyền lợi lao động nên đề nghị đại biểu thảo luận kỹ để chọn một phương án."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Tiếp tục trình Quốc hội hai phương án rút bảo hiểm một lần. Đọc thêm tại: https://vnexpress.net/tiep-tuc-trinh-quoc-hoi-hai-phuong-an-rut-bao-hiem-mot-lan-4750809.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Cầu lâu đời nhất Đà Nẵng thành điểm du lịch đêm",
-            "patterns": [
-                "Cầu Nguyễn Văn Trỗi bắc qua sông Hàn, được Mỹ xây dựng từ thời chiến, sắp khai trương tuyến phố đi bộ ngắm cảnh về đêm."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Cầu lâu đời nhất Đà Nẵng thành điểm du lịch đêm. Đọc thêm tại: https://vnexpress.net/cau-lau-doi-nhat-da-nang-thanh-diem-du-lich-dem-4750625.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Đề xuất trích lãi từ Quỹ BHXH giải quyết quyền lợi cho 213.000 lao động",
-            "patterns": [
-                "Bộ trưởng Đào Ngọc Dung đề xuất dùng tiền lãi kết dư từ Quỹ BHXH xóa nợ BHXH của doanh nghiệp phá sản, chủ bỏ trốn để giải quyết quyền lợi cho hơn 213.000 lao động."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Đề xuất trích lãi từ Quỹ BHXH giải quyết quyền lợi cho 213.000 lao động. Đọc thêm tại: https://vnexpress.net/de-xuat-trich-lai-tu-quy-bhxh-giai-quyet-quyen-loi-cho-213-000-lao-dong-4750743.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Phà ra đảo Cát Bà suýt chìm",
-            "patterns": [
-                "Hải PhòngTrong lúc vào bến Đồng Bài đón khách, phà ra đảo Cát Bà gặp sự cố, nước tràn vào khoang khoảng 80 cm khiến phà suýt chìm."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Phà ra đảo Cát Bà suýt chìm. Đọc thêm tại: https://vnexpress.net/pha-ra-dao-cat-ba-suyt-chim-4750735.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Tuần tới miền Bắc và Nam mưa giông",
-            "patterns": [
-                "Miền Bắc sẽ mưa giông từ thứ ba tuần tới, dự báo kéo dài đến hết tuần; miền Trung nắng nóng trở lại; miền Nam mưa tập trung vào chiều tối."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Tuần tới miền Bắc và Nam mưa giông. Đọc thêm tại: https://vnexpress.net/tuan-toi-mien-bac-va-nam-mua-giong-4750719.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Nhiều lao động đến đúng giờ 'điểm danh rồi đi ăn sáng, uống trà'",
-            "patterns": [
-                "Cán bộ doanh nghiệp nêu thực tế nhiều lao động coi nhẹ tác phong làm việc, đi trễ, về sớm, hoặc đến đúng giờ điểm danh rồi làm việc riêng khiến năng suất không cao."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Nhiều lao động đến đúng giờ 'điểm danh rồi đi ăn sáng, uống trà'. Đọc thêm tại: https://vnexpress.net/nhieu-lao-dong-den-dung-gio-diem-danh-roi-di-an-sang-uong-tra-4750713.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Hai công nhân tử vong vì tai nạn lao động",
-            "patterns": [
-                "Bình PhướcTrong lúc làm việc, hai công nhân ở thị xã Chơn Thành gặp tai nạn lao động, tử vong sau đó."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Hai công nhân tử vong vì tai nạn lao động. Đọc thêm tại: https://vnexpress.net/hai-cong-nhan-tu-vong-vi-tai-nan-lao-dong-4750695.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Tiếp tục kiến nghị giảm giờ làm trong doanh nghiệp xuống 44 giờ",
-            "patterns": [
-                "Lần thứ hai trong nửa năm, Công đoàn kiến nghị Chính phủ xây dựng lộ trình giảm giờ làm trong tuần của lao động khu vực tư nhân từ 48 xuống 44, tiến tới 40 giờ."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Tiếp tục kiến nghị giảm giờ làm trong doanh nghiệp xuống 44 giờ. Đọc thêm tại: https://vnexpress.net/tiep-tuc-kien-nghi-giam-gio-lam-trong-doanh-nghiep-xuong-44-gio-4750649.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Doanh nghiệp tìm cách thích nghi với Gen Z",
-            "patterns": [
-                "Gen Z chiếm chưa đến 2% nhân sự nhưng tỷ lệ nghỉ việc hơn 20% khiến Schneider Electric Việt Nam thay đổi chiến lược để tránh khủng hoảng đội ngũ kế cận."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Doanh nghiệp tìm cách thích nghi với Gen Z. Đọc thêm tại: https://vnexpress.net/doanh-nghiep-tim-cach-thich-nghi-voi-gen-z-4749318.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Sân bay Hòa Lạc, Gia Lâm sẽ hoạt động cả quân sự và dân dụng",
-            "patterns": [
-                "Bộ Chính trị thống nhất bổ sung chức năng lưỡng dụng cho các sân bay quân sự Gia Lâm, Hòa Lạc và xây dựng sân bay thứ hai ở Hà Nội."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Sân bay Hòa Lạc, Gia Lâm sẽ hoạt động cả quân sự và dân dụng. Đọc thêm tại: https://vnexpress.net/san-bay-hoa-lac-gia-lam-se-hoat-dong-ca-quan-su-va-dan-dung-4750577.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Nước sông Bắc Hưng Hải đen kịt",
-            "patterns": [
-                "Hệ thống thủy lợi Bắc Hưng Hải phục vụ nước tưới cho đồng bằng Bắc Bộ bị ô nhiễm, nước đen kịt và đầy rác, tôm cá không thể sinh sống."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Nước sông Bắc Hưng Hải đen kịt. Đọc thêm tại: https://vnexpress.net/nuoc-song-bac-hung-hai-den-kit-4750074.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "'Biệt đội' bảo vệ cá sông",
-            "patterns": [
-                "Đồng ThápĐội bảo vệ cá sông quy tụ những người muốn bảo tồn, tái tạo nguồn lợi thủy sản vốn đang cạn kiệt ở dòng Cửu Long."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: 'Biệt đội' bảo vệ cá sông. Đọc thêm tại: https://vnexpress.net/biet-doi-bao-ve-ca-song-4749009.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "'Dự án cao tốc Gia Nghĩa - Chơn Thành sẽ là tuyến đường đẹp'",
-            "patterns": [
-                "Bộ trưởng Nguyễn Văn Thắng cho rằng dự án cao tốc Bắc - Nam phía Tây đoạn Gia Nghĩa - Chơn Thành nếu được đầu tư sẽ là tuyến đường đẹp, được người dân Đông Nam Bộ chờ đợi."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: 'Dự án cao tốc Gia Nghĩa - Chơn Thành sẽ là tuyến đường đẹp'. Đọc thêm tại: https://vnexpress.net/du-an-cao-toc-gia-nghia-chon-thanh-se-la-tuyen-duong-dep-4750566.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Đà Lạt muốn mở phố đi bộ bên hồ Xuân Hương",
-            "patterns": [
-                "Lâm ĐồngChính quyền Đà Lạt đề xuất mở phố đi bộ Trần Quốc Toản dài 1,6 km chạy ven hồ Xuân Hương, hoạt động vào ba đêm cuối tuần."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Đà Lạt muốn mở phố đi bộ bên hồ Xuân Hương. Đọc thêm tại: https://vnexpress.net/da-lat-muon-mo-pho-di-bo-ben-ho-xuan-huong-4750573.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Dự án chống ngập lớn nhất TP HCM phát sinh lãi 2 tỷ đồng mỗi ngày",
-            "patterns": [
-                "Công trình chống ngập do triều ở TP HCM tổng đầu tư 10.000 tỷ đồng trễ hẹn 6 năm, phát sinh lãi khoảng 2 tỷ đồng mỗi ngày, nhà đầu tư đề nghị thành phố điều chỉnh vốn."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Dự án chống ngập lớn nhất TP HCM phát sinh lãi 2 tỷ đồng mỗi ngày. Đọc thêm tại: https://vnexpress.net/du-an-chong-ngap-lon-nhat-tp-hcm-phat-sinh-lai-2-ty-dong-moi-ngay-4750565.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Phát hiện dấu tích ngôi đền cổ thờ Phật giáo ở Tây Nguyên",
-            "patterns": [
-                "Gia LaiBên trong kho thiêng (hố thiêng) được khai quật có nhiều hiện vật dâng cúng bằng kim loại, trang sức đá, thủy tinh... là dấu tích ngôi đền cổ thờ Phật giáo thế kỷ 9-13."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Phát hiện dấu tích ngôi đền cổ thờ Phật giáo ở Tây Nguyên. Đọc thêm tại: https://vnexpress.net/phat-hien-dau-tich-ngoi-den-co-tho-phat-giao-o-tay-nguyen-4750542.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "21 yêu cầu với chủ nhà trọ nhằm hạn chế thiệt hại cháy nổ",
-            "patterns": [
-                "Chủ trọ không lắp đặt \"chuồng cọp\", không sắp xếp hàng hóa, vật dụng cản trở lối thoát nạn và có lối thoát nạn dự phòng, có thể là thang sắt, thang dây..."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: 21 yêu cầu với chủ nhà trọ nhằm hạn chế thiệt hại cháy nổ. Đọc thêm tại: https://vnexpress.net/21-yeu-cau-voi-chu-nha-tro-nham-han-che-thiet-hai-chay-no-4750516.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Kiến nghị Quốc hội ra nghị quyết riêng để khắc phục 'cán bộ sợ trách nhiệm'",
-            "patterns": [
-                "Đại biểu Hoàng Văn Cường đề nghị Quốc hội ban hành nghị quyết cho phép cán bộ được vận dụng quy định pháp luật linh hoạt để thực thi nhiệm vụ."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Kiến nghị Quốc hội ra nghị quyết riêng để khắc phục 'cán bộ sợ trách nhiệm'. Đọc thêm tại: https://vnexpress.net/kien-nghi-quoc-hoi-ra-nghi-quyet-rieng-de-khac-phuc-can-bo-so-trach-nhiem-4750460.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Phần lớn nạn nhân vụ cháy ở Trung Kính dưới 30 tuổi",
-            "patterns": [
-                "Hà Nội14 nạn nhân tử vong trong vụ cháy ở Trung Kính thì 11 người dưới 30 tuổi, hai người trẻ nhất 23 tuổi và già nhất 64 tuổi."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Phần lớn nạn nhân vụ cháy ở Trung Kính dưới 30 tuổi. Đọc thêm tại: https://vnexpress.net/phan-lon-nan-nhan-vu-chay-o-trung-kinh-duoi-30-tuoi-4750452.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Được - mất khi chuyển đổi taxi xăng sang điện",
-            "patterns": [
-                "Lợi ích khi chuyển từ taxi xăng sang taxi điện là chi phí vận hành giảm, nhưng vốn đầu tư lớn, thời gian hoàn vốn dài, giá cước tăng, theo nhiều doanh nghiệp."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Được - mất khi chuyển đổi taxi xăng sang điện. Đọc thêm tại: https://vnexpress.net/duoc-mat-khi-chuyen-doi-taxi-xang-sang-dien-4750262.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Đề xuất chưa sáp nhập quê Hồ Xuân Hương",
-            "patterns": [
-                "UBND tỉnh Nghệ An đề xuất lên Ban thường vụ Tỉnh ủy chưa sáp nhập xã Quỳnh Đôi - quê nữ sĩ Hồ Xuân Hương và xã Quỳnh Hậu, sau khi tên mới Đôi Hậu gây tranh cãi."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Đề xuất chưa sáp nhập quê Hồ Xuân Hương. Đọc thêm tại: https://vnexpress.net/de-xuat-chua-sap-nhap-que-ho-xuan-huong-4750438.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Chuyên gia: 'Làm đảo vườn trên sông là giải pháp kiến trúc mới'",
-            "patterns": [
-                "Ủng hộ ý tưởng xây đảo vườn giữa sông Sài Gòn để tăng kết nối đôi bờ, KTS Khương Văn Mười cho rằng đây là giải pháp kiến trúc, quy hoạch mới đã được nhiều nước áp dụng."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Chuyên gia: 'Làm đảo vườn trên sông là giải pháp kiến trúc mới'. Đọc thêm tại: https://vnexpress.net/chuyen-gia-lam-dao-vuon-tren-song-la-giai-phap-kien-truc-moi-4750086.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Hôm nay Quốc hội thảo luận kết quả phục hồi kinh tế - xã hội",
-            "patterns": [
-                "Ngày 25/5, Quốc hội thảo luận kết quả giám sát thực hiện Nghị quyết số 43/2022 về chính sách tài khóa, tiền tệ hỗ trợ phục hồi, phát triển kinh tế - xã hội."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Hôm nay Quốc hội thảo luận kết quả phục hồi kinh tế - xã hội. Đọc thêm tại: https://vnexpress.net/hom-nay-quoc-hoi-thao-luan-ket-qua-phuc-hoi-kinh-te-xa-hoi-4750327.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Dự án nghỉ dưỡng bỏ hoang trên 'đất vàng' ven biển",
-            "patterns": [
-                "Quảng NamBa dự án nằm trên cung đường ven biển Lạc Long Quân bị chậm tiến độ, bỏ hoang nhiều năm qua, gây lãng phí đất đai."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Dự án nghỉ dưỡng bỏ hoang trên 'đất vàng' ven biển. Đọc thêm tại: https://vnexpress.net/du-an-nghi-duong-bo-hoang-tren-dat-vang-ven-bien-4750137.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Đề xuất Bộ Quốc phòng, Công an cùng được quyền áp dụng biện pháp cảnh vệ",
-            "patterns": [
-                "Đại biểu Nguyễn Quốc Duyệt đề xuất quy định quyền áp dụng biện pháp cảnh vệ cho cả Bộ trưởng Công an và Quốc phòng, vì lực lượng cảnh vệ bao gồm cả công an và quân đội."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Đề xuất Bộ Quốc phòng, Công an cùng được quyền áp dụng biện pháp cảnh vệ. Đọc thêm tại: https://vnexpress.net/de-xuat-bo-quoc-phong-cong-an-cung-duoc-quyen-ap-dung-bien-phap-canh-ve-4750244.html"
-            ],
-            "context": [
-                ""
-            ]
-        },
-        {
-            "tag": "Thả gia súc, ném đá vào ôtô trên cao tốc Cam Lâm – Vĩnh Hảo",
-            "patterns": [
-                "Nhiều người dân cắt rào, thả gia súc, ném đá vào xe chạy trên cao tốc Cam Lâm – Vĩnh Hảo qua địa bàn Khánh Hoà và Ninh Thuận, theo ban quản lý dự án."
-            ],
-            "responses": [
-                "Đây là tin tức mới nhất về: Thả gia súc, ném đá vào ôtô trên cao tốc Cam Lâm – Vĩnh Hảo. Đọc thêm tại: https://vnexpress.net/tha-gia-suc-nem-da-vao-oto-tren-cao-toc-cam-lam-vinh-hao-4750194.html"
             ],
             "context": [
                 ""

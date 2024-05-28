@@ -119,6 +119,320 @@
             "context": [
                 ""
             ]
+        },
+        {
+            "tag": "học_sâu_trong_NLP",
+            "patterns": [
+                "Học sâu trong NLP là gì?",
+                "Các ứng dụng của học sâu trong NLP là gì?"
+            ],
+            "responses": [
+                "Học sâu trong NLP là việc áp dụng các mạng neural sâu để xử lý và phân tích ngôn ngữ tự nhiên.",
+                "Các ứng dụng của học sâu trong NLP bao gồm nhận diện thực thể có tên, phân loại văn bản, và dịch máy."
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Doanh nhân 2 lần bị bắt oan được VKS An Giang, Long An xin lỗi",
+            "patterns": [
+                "Ông Lâm Hồng Sơn, Việt kiều Mỹ, được VKS hai tỉnh xin lỗi công khai, phục hồi danh dự sau 34 năm bị bắt giam oan 2 lần, sáng 28/5."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Doanh nhân 2 lần bị bắt oan được VKS An Giang, Long An xin lỗi. Đọc thêm tại: https://vnexpress.net/doanh-nhan-2-lan-bi-bat-oan-duoc-vks-an-giang-long-an-xin-loi-4751379.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Đứa trẻ không được ăn đùi gà",
+            "patterns": [
+                "Làm thế nào để giáo viên tránh được tình thế mắc lỗi trong câu chuyện thiếu suất đùi gà cho học sinh?"
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Đứa trẻ không được ăn đùi gà. Đọc thêm tại: https://vnexpress.net/dua-tre-khong-duoc-an-dui-ga-4751249.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Cơ thủ Thổ Nhĩ Kì: 'Khán giả Việt Nam gây phiền cho tôi'",
+            "patterns": [
+                "TP HCMCơ thủ số 14 thế giới Tolgahan Kiraz thấy phiền khi khán giả chủ nhà giải World Cup billards carom 3 băng vỗ tay mỗi khi anh hụt điểm."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Cơ thủ Thổ Nhĩ Kì: 'Khán giả Việt Nam gây phiền cho tôi'. Đọc thêm tại: https://vnexpress.net/co-thu-tho-nhi-ki-khan-gia-viet-nam-gay-phien-cho-toi-4751394.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Ngân hàng, ví điện tử chạy nước rút xác thực khuôn mặt khách hàng",
+            "patterns": [
+                "Các nhà băng, ví điện tử những ngày gần đây giục khách hàng cập nhật khuôn mặt và căn cước công dân gắn chip để tránh gián đoạn giao dịch online giá trị lớn."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Ngân hàng, ví điện tử chạy nước rút xác thực khuôn mặt khách hàng. Đọc thêm tại: https://vnexpress.net/ngan-hang-vi-dien-tu-chay-nuoc-rut-xac-thuc-khuon-mat-khach-hang-4751106.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Hà Nội muốn có gần 100 km đường sắt đô thị đến năm 2030",
+            "patterns": [
+                "UBND TP Hà Nội đặt mục tiêu đến năm 2030 xây dựng xong 96,8 km đường sắt đô thị và hoàn thành mạng lưới 550 km đến năm 2045."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Hà Nội muốn có gần 100 km đường sắt đô thị đến năm 2030. Đọc thêm tại: https://vnexpress.net/ha-noi-muon-co-gan-100-km-duong-sat-do-thi-den-nam-2030-4751408.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Đại biểu đề nghị cởi mở cho phóng viên ghi âm tại phiên tòa",
+            "patterns": [
+                "Trước việc tòa án muốn thắt chặt việc ghi âm, ghi hình với lý do duy trì trật tự, đại biểu Việt Nga đề nghị riêng với báo chí cần cởi mở hơn trong quy định này."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Đại biểu đề nghị cởi mở cho phóng viên ghi âm tại phiên tòa. Đọc thêm tại: https://vnexpress.net/dai-bieu-de-nghi-coi-mo-cho-phong-vien-ghi-am-tai-phien-toa-4751402.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "HLV Vũ Tiến Thành bị phạt 20 triệu đồng vì bôi nhọ VFF, VPF",
+            "patterns": [
+                "HLV của HAGL bị xác định vi phạm về phát ngôn và ứng xử, gây ảnh hưởng nghiêm trọng đến hình ảnh của bóng đá Việt Nam, sau khi thua TP HCM tại vòng 21 V-League 2023-2024."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: HLV Vũ Tiến Thành bị phạt 20 triệu đồng vì bôi nhọ VFF, VPF. Đọc thêm tại: https://vnexpress.net/hlv-vu-tien-thanh-bi-phat-20-trieu-dong-vi-boi-nho-vff-vpf-4751390.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Đề xuất lao động đóng khoản bị nợ BHXH để hưởng chế độ",
+            "patterns": [
+                "Người lao động có thể nộp khoản bị doanh nghiệp chậm, trốn đóng bảo hiểm xã hội (BHXH) để đủ điều kiện xác nhận hưởng hưu trí, theo dự thảo Luật bảo hiểm xã hội."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Đề xuất lao động đóng khoản bị nợ BHXH để hưởng chế độ. Đọc thêm tại: https://vnexpress.net/de-xuat-lao-dong-dong-khoan-bi-no-bhxh-de-huong-che-do-4751222.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Thiết giáp Bradley cứu lính Ukraine giữa làn đạn",
+            "patterns": [
+                "Thiết giáp Bradley Ukraine bị trúng đòn liên tục khi tới sơ tán kíp chiến đấu trên một chiếc khác, song vẫn đưa họ trở về an toàn."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Thiết giáp Bradley cứu lính Ukraine giữa làn đạn. Đọc thêm tại: https://vnexpress.net/thiet-giap-bradley-cuu-linh-ukraine-giua-lan-dan-4751339.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Nhiều nhà bị tốc mái, cây gãy đổ trong mưa giông",
+            "patterns": [
+                "Mưa lớn kéo dài hơn hai giờ, kèm giông lốc làm nhiều nhà dân tại Lâm Đồng, Bình Phước bị tốc mái, ngập úng, hàng loạt cây xanh gãy đổ, sáng 28/5."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Nhiều nhà bị tốc mái, cây gãy đổ trong mưa giông. Đọc thêm tại: https://vnexpress.net/nhieu-nha-bi-toc-mai-cay-gay-do-trong-mua-giong-4751419.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Đề xuất sửa đổi để 3 luật liên quan bất động sản có hiệu lực sớm",
+            "patterns": [
+                "Chính phủ đề xuất Quốc hội xây dựng luật sửa đổi, bổ sung một số điều của Luật Đất đai, Nhà ở, Kinh doanh bất động sản, để các luật này có hiệu lực sớm từ 1/8."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Đề xuất sửa đổi để 3 luật liên quan bất động sản có hiệu lực sớm. Đọc thêm tại: https://vnexpress.net/de-xuat-sua-doi-de-3-luat-lien-quan-bat-dong-san-co-hieu-luc-som-4751283.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Trẻ 5 tuổi được miễn học phí từ ngày 1/9",
+            "patterns": [
+                "Trẻ mầm non 5 tuổi ở các trường công lập được miễn học phí từ đầu năm học tới."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Trẻ 5 tuổi được miễn học phí từ ngày 1/9. Đọc thêm tại: https://vnexpress.net/tre-5-tuoi-duoc-mien-hoc-phi-tu-ngay-1-9-4751118.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Nuôi cá chình kiếm hàng tỷ đồng mỗi năm",
+            "patterns": [
+                "Cà Mau25 năm gắn bó với nghề, ông Nguyễn Hữu Ánh, 67 tuổi, được mệnh danh là \"vua cá chình\" ở miền Tây, mỗi năm thu lãi hơn 4 tỷ đồng."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Nuôi cá chình kiếm hàng tỷ đồng mỗi năm. Đọc thêm tại: https://video.vnexpress.net/nuoi-ca-chinh-kiem-hang-ty-dong-moi-nam-4750757.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Phi cơ chở hơn 150 người cháy động cơ ngay trước khi cất cánh",
+            "patterns": [
+                "MỹPhi cơ của hãng United Airlines bị cháy động cơ khi chuẩn bị cất cánh ở bang Illinois, buộc chuyến bay phải hủy."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Phi cơ chở hơn 150 người cháy động cơ ngay trước khi cất cánh. Đọc thêm tại: https://vnexpress.net/phi-co-cho-hon-150-nguoi-chay-dong-co-ngay-truoc-khi-cat-canh-4751279.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Nga có thể đã vội vã mở chiến dịch Kharkov",
+            "patterns": [
+                "Các chuyên gia Mỹ cho rằng Nga bắt đầu chiến dịch tiến công Kharkov quá sớm khi chưa đủ quân, vì muốn chớp thời cơ trước khi Ukraine nhận viện trợ."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Nga có thể đã vội vã mở chiến dịch Kharkov. Đọc thêm tại: https://vnexpress.net/nga-co-the-da-voi-va-mo-chien-dich-kharkov-4751314.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Ancelotti: Real lo sợ trước chung kết Champions League",
+            "patterns": [
+                "Tây Ban NhaHLV Carlo Ancelotti cho biết nhiều cầu thủ Real Madrid lo sợ khi chuẩn bị đấu Dortmund ở chung kết Champions League."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Ancelotti: Real lo sợ trước chung kết Champions League. Đọc thêm tại: https://vnexpress.net/ancelotti-real-lo-so-truoc-chung-ket-champions-league-4751276.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Báo quốc tế khen đầm Công Trí ở Cannes",
+            "patterns": [
+                "Tạp chí Harper's Bazaar, trang E! News của Mỹ chọn đầm Công Trí vào nhóm trang phục đẹp ở liên hoan phim tại Pháp."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Báo quốc tế khen đầm Công Trí ở Cannes. Đọc thêm tại: https://vnexpress.net/bao-quoc-te-khen-dam-cong-tri-o-cannes-4751397.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Luồn rừng sâu giải cứu hàng trăm động vật quý hiếm",
+            "patterns": [
+                "Kon TumTrong quá trình tuần tra, lực lượng bảo vệ Vườn quốc gia Chư Mom Ray tìm, tháo gỡ hàng chục nghìn bẫy thú, giải cứu hàng trăm động vật hoang dã."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Luồn rừng sâu giải cứu hàng trăm động vật quý hiếm. Đọc thêm tại: https://vnexpress.net/luon-rung-sau-giai-cuu-hang-tram-dong-vat-quy-hiem-4746195.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Ukraine kêu gọi phương Tây ép Nga tham gia đàm phán hòa bình",
+            "patterns": [
+                "Tổng thống Ukraine Zelensky kêu gọi các nước đồng minh phương Tây \"dùng mọi biện pháp\" để buộc Nga phải tham gia đàm phán hòa bình kết thúc chiến sự."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Ukraine kêu gọi phương Tây ép Nga tham gia đàm phán hòa bình. Đọc thêm tại: https://vnexpress.net/ukraine-keu-goi-phuong-tay-ep-nga-tham-gia-dam-phan-hoa-binh-4751269.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "WHO cảnh báo đại dịch cúm lây từ động vật sang người",
+            "patterns": [
+                "Tổ chức Y tế Thế giới (WHO) cảnh báo châu Âu cần chuẩn bị cho một đại dịch cúm có nguy cơ cao lây từ động vật sang người."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: WHO cảnh báo đại dịch cúm lây từ động vật sang người. Đọc thêm tại: https://vnexpress.net/who-canh-bao-dai-dich-cum-lay-tu-dong-vat-sang-nguoi-4751368.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Ronaldo lập kỷ lục ghi bàn trong một mùa Saudi Pro League",
+            "patterns": [
+                "Arab SaudiCú đúp trong trận Al Nassr thắng Al Ittihad 4-2 ở vòng cuối giúp Cristiano Ronaldo kết thúc mùa giải 2023-2024 với 35 bàn."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Ronaldo lập kỷ lục ghi bàn trong một mùa Saudi Pro League. Đọc thêm tại: https://vnexpress.net/ronaldo-lap-ky-luc-ghi-ban-trong-mot-mua-saudi-pro-league-4751289.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Cơ thủ Đức Minh chơi đẹp ở chung kết World Cup",
+            "patterns": [
+                "Cơ thủ Trần Đức Minh suýt đánh nhầm bi cái đối thủ ở chung kết Billiards carom 3 băng World Cup, được khán giả nhắc nên cố ý không ghi điểm."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Cơ thủ Đức Minh chơi đẹp ở chung kết World Cup. Đọc thêm tại: https://vnexpress.net/co-thu-duc-minh-choi-dep-o-chung-ket-world-cup-4751163.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Vàng 'vô hình' có thể trị giá 24 tỷ USD ở Nam Phi",
+            "patterns": [
+                "Vùng Witwatersrand có những đồi quặng đuôi chứa lượng vàng ước tính trị giá tới 24 tỷ USD, có thể khai thác bằng phương pháp mới hiệu quả hơn."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Vàng 'vô hình' có thể trị giá 24 tỷ USD ở Nam Phi. Đọc thêm tại: https://vnexpress.net/vang-vo-hinh-co-the-tri-gia-24-ty-usd-o-nam-phi-4751287.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "10.000 người tuần hành ở Paris phản đối Israel không kích Rafah",
+            "patterns": [
+                "PhápHàng nghìn người tham gia biểu tình gần đại sứ quán Israel ở Paris để phản đối vụ không kích vào nơi sơ tán ở Rafah."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: 10.000 người tuần hành ở Paris phản đối Israel không kích Rafah. Đọc thêm tại: https://vnexpress.net/10-000-nguoi-tuan-hanh-o-paris-phan-doi-israel-khong-kich-rafah-4751329.html"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Dự án thủy cung lấn biển Vũng Tàu xây lại sau 4 năm dừng",
+            "patterns": [
+                "Chính quyền Bà Rịa - Vũng Tàu cho chủ đầu tư tiếp tục thi công đê chắn sóng và san lấp mặt bằng dự án xây dựng thủy cung ở gần biển Bãi Trước, sau hơn 4 năm dừng."
+            ],
+            "responses": [
+                "Đây là tin tức mới nhất về: Dự án thủy cung lấn biển Vũng Tàu xây lại sau 4 năm dừng. Đọc thêm tại: https://vnexpress.net/du-an-thuy-cung-lan-bien-vung-tau-xay-lai-sau-4-nam-dung-4751216.html"
+            ],
+            "context": [
+                ""
+            ]
         }
     ]
 }
